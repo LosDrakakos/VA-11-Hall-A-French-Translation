@@ -74,9 +74,11 @@ jobs:
         with:
           path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Output\*
 
-      - uses: zattoo/publish@v1
+      - name: Create a Release
+        uses: softprops/action-gh-release@v2
         with:
-          publish_package: true
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          sources: 'output/*'
-          notes: release_note.txt
+          token: ${{ secrets.GITHUB_TOKEN }}
+          body_path: release_notes.txt
+          tag_name: ${{ env.APPVERSION }}
+          make_latest: true
+          files: Output/*
