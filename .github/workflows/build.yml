@@ -32,6 +32,26 @@ jobs:
           path: setup_ps-edition.iss
           options: /O+
 
+      - name: Prepare Linux std files
+        shell: bash
+        run: |
+          mkdir assets
+          mv scripts assets/scripts
+          mv data.win assets/game.unx
+          ls -laR assets
+
+      - name: Compress Linux std files
+        uses: a7ul/tar-action@v1.1.0
+        id: compress
+        with:
+          command: c
+          cwd: ./test
+          files: |
+            ./assets/
+            ./Lisez-Moi-PatchFR_Linux.txt
+          outPath: ${{ env.APPNAME }}_${{ env.APPVERSION }}_Linux.tar.gz
+
+
       - name:
         uses: actions/upload-artifact@v4
         with:
