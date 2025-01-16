@@ -1,7 +1,7 @@
 name: Build Installer
 on: push
   branches:
-    - windows
+    - 'windows'
 jobs:
   build:
     name: Build the Inno Setup Installer
