@@ -19,6 +19,7 @@ OutputBaseFilename={%APPNAME}_{%APPVERSION}
 Uninstallable=no
 CreateUninstallRegKey=no
 UpdateUninstallLogAppName=no
+UsePreviousLanguage=no
 
 [Files]
 Source: "data.win"; DestDir: "{app}"; Flags: ignoreversion
