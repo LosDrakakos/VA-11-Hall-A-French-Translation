@@ -45,7 +45,7 @@ jobs:
         id: compress
         with:
           command: c
-          cwd: ./test
+          cwd: ./
           files: |
             ./assets/
             ./Lisez-Moi-PatchFR_Linux.txt
