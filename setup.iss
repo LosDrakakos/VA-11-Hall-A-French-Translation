@@ -1,6 +1,6 @@
 [Setup]
-AppName={%APPNAME}
-AppVersion={%APPVERSION}
+AppName={#GetEnv('APPNAME')}
+AppVersion={#GetEnv('APPVERSION')}
 WizardStyle=modern
 DefaultDirName={commonpf64}\steam\steamapps\common\VA-11 HALL-A
 ;DefaultGroupName=My Program
@@ -15,7 +15,7 @@ DisableProgramGroupPage=yes
 SetupIconFile=icone.ico
 UsePreviousAppDir=yes
 LanguageDetectionMethod=none
-OutputBaseFilename={%APPNAME}_{%APPVERSION}
+OutputBaseFilename={#GetEnv('APPNAME')}_{#GetEnv('APPVERSION')}
 Uninstallable=no
 CreateUninstallRegKey=no
 UpdateUninstallLogAppName=no
