@@ -18,7 +18,7 @@ LanguageDetectionMethod=none
 
 [Files]
 Source: "data.win"; DestDir: "{app}"; Flags: ignoreversion
-Source: "..\scripts\eng\*"; DestDir: "{app}\scripts\eng"; Flags: ignoreversion recursesubdirs
+Source: "scripts\eng\*"; DestDir: "{app}\scripts\eng"; Flags: ignoreversion recursesubdirs
 Source: "Lisez-Moi-PatchFR.rtf"; DestDir: "{app}"; Flags: isreadme
 
 [Languages]
