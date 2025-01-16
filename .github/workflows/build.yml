@@ -9,10 +9,12 @@ jobs:
     name: Build the Inno Setup Installer
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: xom9ikk/dotenv@v2.3.0
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setting env vars from .env
+        uses: xom9ikk/dotenv@v2.3.0
 
-      - name: Compile .ISS to .EXE Installer
+      - name: Compile Windows Installer
         uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
         env:
           APPNAME: ${{ env.APPNAME }}
@@ -20,7 +22,17 @@ jobs:
         with:
           path: setup.iss
           options: /O+
-      
-      - uses: actions/upload-artifact@v4
+
+      - name: Compile PS-Edition Windows Installer
+        uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
+        env:
+          APPNAME: ${{ env.APPNAME }}
+          APPVERSION: ${{ env.APPVERSION }}
+        with:
+          path: setup_ps-edition.iss
+          options: /O+
+
+      - name:
+        uses: actions/upload-artifact@v4
         with:
           path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Output\*

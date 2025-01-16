@@ -1,5 +1,5 @@
 [Setup]
-AppName={#GetEnv('APPNAME')}
+AppName={#GetEnv('APPNAME')} Edition Photosensible
 AppVersion={#GetEnv('APPVERSION')}
 WizardStyle=modern
 DefaultDirName={commonpf64}\steam\steamapps\common\VA-11 HALL-A
@@ -15,14 +15,14 @@ DisableProgramGroupPage=yes
 SetupIconFile=icone.ico
 UsePreviousAppDir=yes
 LanguageDetectionMethod=none
-OutputBaseFilename={#GetEnv('APPNAME')}_{#GetEnv('APPVERSION')}_Windows
+OutputBaseFilename={#GetEnv('APPNAME')}_{#GetEnv('APPVERSION')}_Windows_PS-Edition
 Uninstallable=no
 CreateUninstallRegKey=no
 UpdateUninstallLogAppName=no
 UsePreviousLanguage=no
 
 [Files]
-Source: "data.win"; DestDir: "{app}"; Flags: ignoreversion
+Source: "ps\data.win"; DestDir: "{app}"; Flags: ignoreversion
 Source: "scripts\eng\*"; DestDir: "{app}\scripts\eng"; Flags: ignoreversion recursesubdirs
 Source: "Lisez-Moi-PatchFR.rtf"; DestDir: "{app}"; Flags: isreadme
 
