@@ -4,7 +4,7 @@ AppVersion=1.0.3
 WizardStyle=modern
 DefaultDirName={commonpf64}\steam\steamapps\common\VA-11 HALL-A
 DefaultGroupName=My Program
-UninstallDisplayIcon={app}\MyProg.exe
+;UninstallDisplayIcon={app}\MyProg.exe
 Compression=lzma2
 SolidCompression=yes
 
@@ -15,6 +15,7 @@ DisableProgramGroupPage=yes
 SetupIconFile=icone.ico
 UsePreviousAppDir=yes
 LanguageDetectionMethod=none
+OutputBaseFilename={%AppName}_{%AppVersion}
 
 [Files]
 Source: "data.win"; DestDir: "{app}"; Flags: ignoreversion
