@@ -1,7 +1,6 @@
 name: Build Installer
+if: github.ref == 'refs/heads/windows'
 on: push
-  branches:
-    - 'windows'
 jobs:
   build:
     name: Build the Inno Setup Installer
