@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Build the Inno Setup Installer
+    name: Setup and Tarball build
     runs-on: windows-latest
     steps:
       - name: Checkout repo
