@@ -3,15 +3,14 @@ on:
   push:
     branches:
       - windows
-env:
-  APPNAME
-  APPVERSION
+
 jobs:
   build:
     name: Build the Inno Setup Installer
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: xom9ikk/dotenv@v2.3.0
 
       - name: Compile .ISS to .EXE Installer
         uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
