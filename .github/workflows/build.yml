@@ -18,4 +18,4 @@ jobs:
       
       - uses: actions/upload-artifact@v4
         with:
-          path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Outpu
+          path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Output\*
