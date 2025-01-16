@@ -717,7 +717,7 @@
 [XS:anface,happy][XS:antalk,1][C:41]Anna:[C:C] Allez salut![STOPLIP:][XS:ph,-1][E:50][STOPLIP:]
 [XS:jilltalk,1][XS:jilltalk,1][C:13]Jill:[C:C] ...![STOPLIP:]
 [XS:jilltalk,1][XS:jilltalk,1][C:13]Jill:[C:C] Oh... *baille* C'était juste un rêve.[STOPLIP:]
-[XS:jilltalk,1][XS:jilltalk,1][C:13]Jill:[C:C] (Hein? il y a un truc a côté de la porte.)[STOPLIP:][XS:ph,-3][E:51][STOPLIP:]
+[XS:jilltalk,1][XS:jilltalk,1][C:13]Jill:[C:C] (Hein? il y a un truc à côté de la porte.)[STOPLIP:][XS:ph,-3][E:51][STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] Pssst.[STOPLIP:]"
 [XS:antalk,1][C:41]Anna:[C:C] Hé, par ici.[STOPLIP:]"
 [SHOW:185,sprite_anna][XS:anface,happy][XS:antalk,1][C:41]Anna:[C:C] Bouh![STOPLIP:]"
