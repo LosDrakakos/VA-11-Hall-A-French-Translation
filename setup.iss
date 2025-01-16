@@ -1,9 +1,9 @@
 [Setup]
-AppName=VA-11 Hall-A Patch FR
-AppVersion=1.0.3
+AppName={%APPNAME}
+AppVersion={%APPVERSION}
 WizardStyle=modern
 DefaultDirName={commonpf64}\steam\steamapps\common\VA-11 HALL-A
-DefaultGroupName=My Program
+;DefaultGroupName=My Program
 ;UninstallDisplayIcon={app}\MyProg.exe
 Compression=lzma2
 SolidCompression=yes
@@ -15,7 +15,10 @@ DisableProgramGroupPage=yes
 SetupIconFile=icone.ico
 UsePreviousAppDir=yes
 LanguageDetectionMethod=none
-OutputBaseFilename={%AppName}_{%AppVersion}
+OutputBaseFilename={%APPNAME}_{%APPVERSION}
+Uninstallable=no
+CreateUninstallRegKey=no
+UpdateUninstallLogAppName=no
 
 [Files]
 Source: "data.win"; DestDir: "{app}"; Flags: ignoreversion
