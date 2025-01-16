@@ -9,7 +9,7 @@ Compression=lzma2
 SolidCompression=yes
 
 LicenseFile=Lisez-Moi-PatchFR.rtf
-InfoBeforeFile=Readme.rtf
+;InfoBeforeFile=Readme.rtf
 PrivilegesRequired=admin
 DisableProgramGroupPage=yes
 SetupIconFile=icone.ico
