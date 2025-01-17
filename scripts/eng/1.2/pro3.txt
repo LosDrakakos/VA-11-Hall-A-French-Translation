@@ -137,7 +137,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Ce qu'on peut traduire à peu près par "Ton #corps, tes choix."[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Tant que ça ne fait de mal à personne, je #n'ai aucune raison de les haïr.[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] Tu vois, Betty?[STOPLIP:]
-[XS:bettyface,grumpy][XS:bettytalk,1][C:24]Betty:[C:C] Hé ! J'ai pas dit que je détestait #automatiquement tous ceux qui étaient améliorés. [STOPLIP:]
+[XS:bettyface,grumpy][XS:bettytalk,1][C:24]Betty:[C:C] Hé! J'ai pas dit que je détestait #automatiquement tous ceux qui étaient améliorés. [STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Y'a une différence entre être contre #quelque chose et être contre quelqu'un.[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Je suis pas une gamine de 12 piges qui haït #aveuglément quelqu'un juste pour un truc comme #ça.[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] Peut-être que tu devrais prêcher l'exemple.[STOPLIP:]
