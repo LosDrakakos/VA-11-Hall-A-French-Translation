@@ -59,7 +59,7 @@
 [XS:radtalk,1][C:45]Arial Wienerton:[C:C] C'est ça le goût du Bronson?![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ouais, à peu près.[STOPLIP:]
 [XS:radtalk,1][C:45]Arial Wienerton:[C:C] Ouais bah, d'la merde. Ça en vaut #vraiment pas la peine.[XS:radhide,1][STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] *soupir* Non, en effet.[XS:ph,6][XS:mix,0][E:7][STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] *Soupir* Non, en effet.[XS:ph,6][XS:mix,0][E:7][STOPLIP:]
 [RES:][XS:jilltalk,1][C:13]Jill:[C:C] Voilà.[STOPLIP:]
 [XS:radtalk,1][C:45]Arial Wienerton:[C:C] Ouais, ça a l'air sympa.[STOPLIP:]
 [XS:radtalk,1][C:45]Arial Wienerton:[C:C] Examen réussi, Barmaid.[XS:radhide,1][STOPLIP:]
