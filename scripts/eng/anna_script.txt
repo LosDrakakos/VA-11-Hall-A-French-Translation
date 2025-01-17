@@ -164,7 +164,7 @@
 [XS:anface,away][XS:antalk,1][C:41]Anna:[C:C] Evidemment.[XS:antalk,0][XS:next,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Et ensuite, parce que j'estimais que tu #avais l'âge légal.[XS:next,1][STOPLIP:]
 [XS:anface,smug][XS:antalk,1][C:41]Anna:[C:C] Hum... comment ça?[XS:antalk,0][XS:next,1][STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] On a eu beaucoup de gamins qui sont venus #ici en pensant qu'ils pouvaient faire illusion #juste en commandant une boisson, mais ils sont #souvent trop nerveux ou trop hésitant.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] On a souvent des gamins qui ont commandé un #verre en pensant que ça passerait, mais ils sont #juste trop nerveux ou hésitants.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] En temps normal je sers pas de verres à ce #genre de gosse. Ils savent pas à ce qu'ils font.[XS:next,1][STOPLIP:]
 [XS:anface,][XS:antalk,1][C:41]Anna:[C:C] Et si ils sont pas comme ça mais quand même #mineurs?[XS:antalk,0][XS:next,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Si ils ont l'air d'avoir l'âge légal, je #pense que j'arriverais à vivre avec.[STOPLIP:]
