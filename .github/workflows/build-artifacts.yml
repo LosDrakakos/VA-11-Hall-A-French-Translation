@@ -1,4 +1,4 @@
-name: Build Installer
+name: Build RC Artifacts
 on: 
   push:
     branches:
