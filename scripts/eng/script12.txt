@@ -409,7 +409,7 @@
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Non, c'est plausible.[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Ok chérie! Je pense que je vais y aller. #Je veux pas te prendre toute ta pause.[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] C'était sympa de parler. On se voit demain![STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] A plus.[XS:client,-2][XS:ph,1][E:32][STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] À plus.[XS:client,-2][XS:ph,1][E:32][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je suis de retour! J'ai raté quelque chose?[STOPLIP:]
 [SHOW:185,sprite_dana][XS:danaface,worry][XS:dantalk,1][C:15]Dana:[C:C] Rien, sauf si tu comptes le pire combat #"main event" de toute l'année sur une chaine #payante.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ok.[STOPLIP:]

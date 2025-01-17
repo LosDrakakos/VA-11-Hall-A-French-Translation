@@ -418,7 +418,7 @@
 [XS:danaface,][XS:dantalk,1][C:15]Dana:[C:C] Elle était trop coincé.[STOPLIP:]
 [XS:lexitalk,1][C:36]Lexi:[C:C] Elle était trop Dana.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Trop Dana?[STOPLIP:]
-[XS:lexitalk,1][C:36]Lexi:[C:C] A notre premier rendez-vous, elle s'est #coincée la tête dans un seau. On a passé notre #rencard au magasin de bricolage pour le lui #retirer.[STOPLIP:]
+[XS:lexitalk,1][C:36]Lexi:[C:C] À notre premier rendez-vous, elle s'est #coincée la tête dans un seau. On a passé notre #rencard au magasin de bricolage pour le lui #retirer.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Oh... Trop Dana. Ouais, je vois.[STOPLIP:]
 [XS:danaface,worry][XS:dantalk,1][C:15]Dana:[C:C] ...Boooon, quoi qu'il en soit.[STOPLIP:]
 [XS:danaface,][XS:dantalk,1][C:15]Dana:[C:C] Je ne t'ai pas vue en personne depuis des #années, et tu dois partir avant le nouvel an. #Je ne compte pas semer la pagaille.[STOPLIP:]
