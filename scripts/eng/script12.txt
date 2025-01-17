@@ -213,7 +213,7 @@
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Pourquoi ça s'appelle une Fée Bleue?[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] C'est en rapport avec Pinocchio?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je crois que le nom est dérivé de #l'absinthe, que certains appellent la Fée Verte.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Les premières versions de la boisson #étaient surnommée "Absinthe Douce".[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Les premières versions de la boisson #étaient surnommée "Absinthe sans-alcool".[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Malheureusement, ils ont dû changer #la formule car les gens devenaient verts.[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Pas bleus?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Un vert qui tirait sur le bleu.[XS:mix,0][XS:ph,6][E:19][STOPLIP:]

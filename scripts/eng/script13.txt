@@ -313,7 +313,7 @@
 [XS:dantalk,1][C:15]Dana:[C:C] ...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Euh...[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] ...[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Arrête, s'il te plait.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Arrête, s'il te plaît.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Sept secondes...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Et voilà.[XS:ph,5][E:10][STOPLIP:]

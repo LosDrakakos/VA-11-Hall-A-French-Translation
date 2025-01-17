@@ -55,7 +55,7 @@
 [XS:virgiliotalk,1][C:29]Virgilio:[C:C] C'est une longue histoire. Et #honnêtement, je préfererais ne pas en parler pour #le moment.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] D'accord. Mais qu'est-ce qui vous a fait #changer d'avis?[STOPLIP:]
 [XS:virgiliotalk,1][C:29]Virgilio:[C:C] Eh bien, pour commencer, c'est plus sûr #pour moi en ce moment. Le coup du bouffon #pompeux, c'était surtout pour éviter d'attirer #l'attention.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Plus sûr? Ces mots ont perdu leur sens #ces dernier jours.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Plus sûr? Ces mots ont perdu leur sens #ces derniers jours.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Attendez... c'est ÇA votre façon d'éviter #d'attirer l'attention?[STOPLIP:]
 [XS:virgiliotalk,1][C:29]Virgilio:[C:C] Oui.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...vous savez à quel point ça à l'air #bizarre, hein?[STOPLIP:]

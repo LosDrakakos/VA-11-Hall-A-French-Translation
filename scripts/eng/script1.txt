@@ -647,7 +647,7 @@
 [XS:seitalk,1][C:17]Sei:[C:C] Parce que vous avez l'air d'être quelqu'un #de gentil, Jill, et je n'aime pas énerver les #gens qui sont gentils.[XS:seitalk,0][STOPLIP:]
 [XS:seiface,][XS:seitalk,1][C:17]Sei:[C:C] Si ça peut vous redonner le sourire, j'aime #beaucoup ce bar.[XS:seitalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ça... fait du bien d'entendre ça, en fait. #Vous êtes la première à dire quelque chose de #gentil aujourd'hui, merci.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Qu'est-ce qui vous plait ici?[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Qu'est-ce qui vous plaît ici?[STOPLIP:]
 [XS:seiface,smile][XS:seitalk,1][C:17]Sei:[C:C] L'odeur d'urine de chien et de savon![XS:seitalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
 [XS:seitalk,1][C:17]Sei:[C:C] Ma mère était vétérinaire et j'allais dans #sa clinique après les cours. Du coup, ça me #rappelle de bons souvenirs.[XS:seitalk,0][STOPLIP:]

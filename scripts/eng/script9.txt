@@ -693,7 +693,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Un peu de temps pour que je puisse remettre #de l'ordre dans mes idées.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Oui, je comprends.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Mais fais pas de conneries, tu m'as #entendue?[STOPLIP:]
-[XS:dantalk,1][C:15]Dana:[C:C] Si la moindre pensée un peu louche survient, #ou si tu te sens trop angoissée, appelle moi.[STOPLIP:]
+[XS:dantalk,1][C:15]Dana:[C:C] Si la moindre pensée un peu louche survient, #ou si tu te sens trop angoissée, appelle-moi.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ouais.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] ...[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Hé Fore! Elle est à ta charge maintenant, #t'as entendu?[STOPLIP:]
