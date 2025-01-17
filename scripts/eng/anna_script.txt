@@ -96,7 +96,7 @@
 [XS:antalk,1][C:41]???:[C:C] Qu'est-ce que ça vous aurait fait?[XS:antalk,0][XS:next,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Bof...[XS:next,1][STOPLIP:]
 [XS:anface,][XS:antalk,1][C:41]???:[C:C] "Bof"?[XS:antalk,0][XS:next,1][STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Je ne crois pas au mythe que les enfants ne #boivent pas d'alcool. J'ai déjà rencontrée des #ados de 16 ans qui buvaient bien plus que moi.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Je ne crois pas au mythe des enfants qui ne #boivent pas d'alcool. J'ai déjà rencontré des #ados de 16 ans qui buvaient bien plus que moi.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] C'est important de limiter leur accès à #l'alcool, mais il ne faut pas non plus donner #l'impression que c'est un plaisir interdit...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Sinon... vous allez seulement leur donner #encore plus envie d'en boire.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Et merde, je parie que si on donnait de #l'alcool aux gosses, ils se mettraient à dire des #gros mots à un âge plus précoce.[XS:next,1][STOPLIP:]
