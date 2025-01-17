@@ -2,6 +2,7 @@ name: Build RC Artifacts
 on: 
   push:
     branches:
+      - '**'
       - '!windows'
 
 jobs:
