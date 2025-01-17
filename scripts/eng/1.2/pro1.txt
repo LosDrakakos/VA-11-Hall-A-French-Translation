@@ -230,7 +230,7 @@
 [XS:dealtalk,1][C:25]???:[C:C] C'est leurs propriétaires qui les ont #financés, si j'ai bonne mémoire.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ça me paraît logique... dans un sens.[STOPLIP:]
 [XS:dealtalk,1][C:25]???:[C:C] La STC est la deuxième plus importante #entreprise de jouets pour chiens dans le monde.[STOPLIP:]
-[XS:dealtalk,1][C:25]???:[C:C] Truc marrant : ils ont démarré sous le nom de #Seifar Toy Development.[STOPLIP:]
+[XS:dealtalk,1][C:25]???:[C:C] Truc marrant: ils ont démarré sous le nom de #Seifar Toy Development.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Si c'est pas malheureux...[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Saaaaaaaaalut~[STOPLIP:]
 [XS:dealtalk,1][C:25]???:[C:C] Hmm*?[STOPLIP:]

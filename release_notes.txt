@@ -6,7 +6,7 @@ Disponible au téléchargement une version alternative (PS-Edition) adaptée aux
 
 --------------------------------------------------------------------------
 
-Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A : VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
+Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A: VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
 
 Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro et une deuxieme partie Gordon Frenchman.
 
@@ -18,7 +18,7 @@ Cette version de la traduction et sa distribution ne bénéficient pas d'une que
 
 La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur. CC BY-NC-SA 4.0
 
-L'équipe de traduction "Officielle" comptait les membres suivants : Benjamin "Gordon Frenchman/Jcdenton" Doussot, Piapiou, Odrake, Vaea, Nävis, Keithan, Melhoodiey, DjDeathrow, et Kazuhiro. Merci à eux, sans qui notre travail aurait été bien plus long et complexe.
+L'équipe de traduction "Officielle" comptait les membres suivants: Benjamin "Gordon Frenchman/Jcdenton" Doussot, Piapiou, Odrake, Vaea, Nävis, Keithan, Melhoodiey, DjDeathrow, et Kazuhiro. Merci à eux, sans qui notre travail aurait été bien plus long et complexe.
 
 --------------------------------------------------------------------------
 

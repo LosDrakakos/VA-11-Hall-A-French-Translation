@@ -467,7 +467,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Ça te fait vraiment relativiser sur les #choses, à quel point elles peuvent être minimes.[XS:next,1][STOPLIP:]
 [XS:anface,away][XS:antalk,1][C:41]Anna:[C:C] ...[XS:antalk,1]ouais.[XS:antalk,0][XS:next,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Maintenant que j'y pense, ça n'a pas #vraiment grand chose à voir avec ce que t'a dis, #si?[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Mais bon, ce que j'essaye de te dire c'est : #Ne te prend pas la tête avec ça. Essaye juste... #de vivre, ok? Reconnais que tu as cette chance.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Mais bon, ce que j'essaye de te dire c'est: #Ne te prend pas la tête avec ça. Essaye juste... #de vivre, ok? Reconnais que tu as cette chance.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je sais comment tu te sens en ce moment, #mais tu vas finir par aller mieux. A la fin, on ne #retient que les bons moments.[XS:next,1][STOPLIP:]
 [XS:anface,awayhalf][XS:antalk,1][C:41]Anna:[C:C] J'espère.[XS:antalk,0][STOPLIP:]
 [XS:anface,][XS:antalk,1][C:41]Anna:[C:C] Vous aviez l'air d'être plutôt proches toi #et ton grand père.[XS:antalk,0][XS:next,1][STOPLIP:]
