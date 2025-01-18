@@ -573,7 +573,7 @@
 [XS:kimtalk,1][C:22]Kim:[C:C] Merci. #J'avais vraiment besoin de ces encouragements.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Revenez si vous avez besoin de plus #d'encouragements.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je n'oserais pas laisser quelqu'un seul quand #il s'agit de ce genre de choses.[STOPLIP:]
-[XS:kimtalk,1][C:22]Kim:[C:C] Merci! A plus Jill.[XS:kimhide,1][STOPLIP:]
+[XS:kimtalk,1][C:22]Kim:[C:C] Merci! À plus Jill.[XS:kimhide,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] N'hésitez pas à revenir.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] *Soupir*[STOPLIP:]
 [XS:giltalk,1][C:19]Gillian:[C:C] Tu ferais bien de suivre une partie de ce #conseil.[STOPLIP:]

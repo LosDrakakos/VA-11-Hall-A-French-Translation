@@ -286,7 +286,7 @@
 [XS:almatalk,1][C:14]Alma:[C:C] Mais c'est l'un de ces souvenir que quand #tu y repenses, tu trouves ça terrifiant à quel #point tu étais téméraire.[STOPLIP:]
 [XS:almaface,concern][XS:almatalk,1][C:14]Alma:[C:C] Sans rire, j'aurais pu finir enceinte... #ou pire.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] ... A cette âge là, j'étais tout le temps #habillé en noir et j'étais obsédée par #l'occultisme.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] ... À cette âge là, j'étais tout le temps #habillé en noir et j'étais obsédée par #l'occultisme.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Le pire étant que je me souviens avoir été #la tête de turc de service constamment ciblé par #les blagues des autres.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
 [XS:almaface,][XS:almatalk,1][C:14]Alma:[C:C] Tu sais ce que dis le vieil adage.[STOPLIP:]
