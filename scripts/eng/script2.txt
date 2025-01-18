@@ -847,7 +847,7 @@
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C] Pas de "si vous voulez"! Vous êtes #sûre ou non?[XS:mikitalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ouais. Faites comme vous le sentez.[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C] Très bien. Je le fais à quel nom?[XS:mikitalk,0][STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] (Peut-être pour la Patronne? A moins que #Gil ne le veuille...)[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] (Peut-être pour la Patronne? À moins que #Gil ne le veuille...)[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C] Votre nom, jeune fille![XS:mikitalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Oh! Pour Jill, alors.[STOPLIP:]
 [XS:mikiface,smile][XS:mikitalk,1][C:42]*Kira* Miki:[C:C] "Pour Jill. Garde ta bonne étoile. #De la part de *Kira* Miki."[XS:mikitalk,0][STOPLIP:]

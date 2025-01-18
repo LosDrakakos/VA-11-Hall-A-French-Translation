@@ -178,7 +178,7 @@
 [XS:bettytalk,1][C:24]Betty:[C:C] Je déteste Laura.[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] Tu quoi?[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Elle va t'arracher à moi![STOPLIP:]
-[XS:bettytalk,1][C:24]Betty:[C:C] T'es ma face de poubelle, pas la sienne! #T'es à moi! A moiiiiiiiii![STOPLIP:]
+[XS:bettytalk,1][C:24]Betty:[C:C] T'es ma face de poubelle, pas la sienne! #T'es à moi! À moiiiiiiiii![STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] Betty... Je ne t'appartiens pas.[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] De plus, je peux vraiment, mais alors sur ma vie vraiment pas, te laisser seule.[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] J'ai l'impression que si à un moment je te perd #de vue, tu vas tout simplement... te planter.[STOPLIP:]

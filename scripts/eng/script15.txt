@@ -582,7 +582,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Pardon?[STOPLIP:]
 [XS:mariotalk,1][C:34]Mario:[C:C] Ils ont l'air assez intimidant, mais le #fait est que personne ne leur a fait face #directement.[STOPLIP:]
 [XS:marioface,][XS:mariotalk,1][C:34]Mario:[C:C] De plus, personne n'a envie de finir en #charpie s'il s'avèrent être ce qu'ils semblent #être.[STOPLIP:]
-[XS:mariotalk,1][C:34]Mario:[C:C] Donc son gang se contente juste d'être... #...là. A faire leurs trucs en mode intimidation. #Ils ennuient personne.[STOPLIP:]
+[XS:mariotalk,1][C:34]Mario:[C:C] Donc son gang se contente juste d'être... #...là. À faire leurs trucs en mode intimidation. #Ils ennuient personne.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Oh.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Vous désirez autre chose?[STOPLIP:]
 [XS:mariotalk,1][C:34]Mario:[C:C] Je prendrai un Piano Man.[STOPLIP:]

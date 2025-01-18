@@ -6,7 +6,7 @@
 [XS:dantalk,1][C:15]Dana:[C:C] ...Je me demande si le Club des Fervents #Admirateurs des Shibas serait intéressé à l'idée #de réserver notre bar.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Un problème à la fois, Patronne.[STOPLIP:]
 [XS:danaface,][XS:dantalk,1][C:15]Dana:[C:C] Attends, je connais quelqu'un de l'Institut #pour le Développement des Poméraniens![STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] UN PROBLÈME A LA FOIS!![STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] UN PROBLÈME À LA FOIS!![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] N'empêche, tu es tendue comme un string #depuis Vendredi. Tu t'inquiètes pour Gil ou un #truc du genre?[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Crois-moi. Gil est le cadet de mes soucis. [STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Mets un peu de musique et essaye de profiter #de la journée, tu veux bien?[XS:danhide,1][STOPLIP:]

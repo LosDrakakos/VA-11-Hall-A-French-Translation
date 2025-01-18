@@ -228,7 +228,7 @@
 [XS:doroface,][XS:dorotalk,1][C:18]Dorothy:[C:C] Quoi?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Tu as quel genre d'amis?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Est-ce qu'ils travaillent dans la même #industrie, ou...? [STOPLIP:]
-[XS:dorotalk,1][C:18]Dorothy:[C:C] Des amis? A part toi?[STOPLIP:]
+[XS:dorotalk,1][C:18]Dorothy:[C:C] Des amis? À part toi?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Merci.[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Hmm... Il y a Lawrence, c'est un #distributeur automatique vraiment chouette.[STOPLIP:]
 [XS:doroface,think][XS:dorotalk,1][C:18]Dorothy:[C:C] ... enfin, si tu fais abstraction de son #côté... excentrique.[STOPLIP:]
