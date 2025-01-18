@@ -12,16 +12,17 @@
  7. [Crédits et remerciements](#cr%C3%A9dits-et-remerciements)
 
 ### Préambule
-Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A : VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
+Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A : VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.  
 
-Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro de l’Équipe Mirai et dans un second temps par Gordon Frenchman de l’équipe de traduction officielle.
-Également, notez que la publication de cette traduction n'a été approuvé ni par les développeurs du jeu, ni par l'éditeur.
+Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro de l’Équipe Mirai et dans un second temps par Gordon Frenchman de l’équipe de traduction officielle.  
+Également, notez que la publication de cette traduction n'a été approuvé ni par les développeurs du jeu, ni par l'éditeur.  
 
-Bien qu'une partie de la traduction soit issue du "leak" de la version qui devait être la version officielle, notez qu'une bonne partie de la traduction n'en est pas issue, a été retraduite ou reformulée affin de rester harmonieuse avec notre vision de l'adaptation.
+Bien qu'une partie de la traduction soit issue du "leak" de la version qui devait être la version officielle, notez qu'une bonne partie de la traduction n'en est pas issue, a été retraduite ou reformulée affin de rester harmonieuse avec notre vision de l'adaptation.  
 
-Cette version de la traduction et sa distribution ne bénéficient pas d'une quelconque bénédiction des ayants droits.
+Cette version de la traduction et sa distribution ne bénéficient pas d'une quelconque bénédiction des ayants droits.  
 
-La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur. CC BY-NC-SA 4.0 (voir [LICENSE.MD](https://github.com/LosDrakakos/VA-11-Hall-A-French-Translation?tab=License-1-ov-file) pour les détails, mais en gros vous faites ce que vous voulez avec tant que : tout le monde est crédité, que cela reste non commercial, et que toutes les oeuvres dérivées de la traduction sont distribuées dans les mêmes conditions.)
+La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur. CC BY-NC-SA 4.0 (voir [LICENSE.MD](https://github.com/LosDrakakos/VA-11-Hall-A-French-Translation?tab=License-1-ov-file) pour les détails, mais en gros vous faites ce que vous voulez avec tant que : tout le monde est crédité, que cela reste non commercial, et que toutes les oeuvres dérivées de la traduction sont distribuées dans les mêmes conditions). 
+
 Cette traduction est disponible gratuitement sur le site [https://va11-fr.drakakorp.eu](https://va11-fr.drakakorp.eu) ou ici dans l'onglet [Releases](https://github.com/LosDrakakos/VA-11-Hall-A-French-Translation/releases)
 
 ### Ce qui a été fait
@@ -97,9 +98,9 @@ Pour contribuer deux options :
  - DjDeathrow
  - Kazuhiro
 
-Merci à eux, sans qui notre travail aurait été bien plus long et complexe.
+Merci à eux, sans qui notre travail aurait été bien plus long et complexe.  
 
-Merci à [SpiritOfRei](https://linktr.ee/spiritofrei) de nous avoir permis d'intégrer son mod incluant des modifications spécifiques pour personnes photosensible. 
+Merci à [SpiritOfRei](https://linktr.ee/spiritofrei) de nous avoir permis d'intégrer son mod incluant des modifications spécifiques pour personnes photosensible.  
 
 Merci également aux utilisateurs du [Discord](https://discord.gg/9yRBZqydKw) nous ayant fait remonter moult erreurs, coquilles, bugs, et retours à la ligne manquants (de manière non exhaustive) :
  - Gamecraft
@@ -107,6 +108,4 @@ Merci également aux utilisateurs du [Discord](https://discord.gg/9yRBZqydKw) no
  - Cow
  - SleepyHuman
 
-Merci à Sukeban pour Va-11 Hall-A, nous attendons la "suite" avec impatience.
-
-
+Merci à Sukeban pour Va-11 Hall-A, nous attendons la "suite" avec impatience.  
