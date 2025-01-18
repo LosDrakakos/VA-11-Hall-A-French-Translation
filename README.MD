@@ -1,4 +1,8 @@
 # **VA-11 Hall-A French Translation**
+
+**This patch does not allow the game to be launched without owning a copy of the game, nor does it bypass any DRM system.**
+**Ce patch ne permet pas de lancer le jeu sans disposer d'une copie du jeu, ni de contourner un quelconque système de DRM.**
+
 ### Préambule
 Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A : VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
 
