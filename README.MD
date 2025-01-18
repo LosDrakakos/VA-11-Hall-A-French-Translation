@@ -72,13 +72,13 @@ Pour contribuer deux options :
    - La version Vita (on a pas regardé pas dit que ca arrive un jour)
 
 ### Crédits et remerciements
-Notre équipe / l'équipe de traduction non-officielle / l'équipe de va11-fr (on a pas vraiment de nom en fait) :
+**Notre équipe / l'équipe de traduction non-officielle / l'équipe de va11-fr (on a pas vraiment de nom en fait):**
  - TheDrakakis
  - Shikanata
  - Shushurocket
  - Kamy
 
-L'équipe de traduction "officielle"/ L'équipe de Gordon Frenchman,
+**L'équipe de traduction "officielle"/ L'équipe de Gordon Frenchman:**
  - Benjamin "Gordon Frenchman/Jcdenton" Doussot
  - Piapiou
  - Odrake
