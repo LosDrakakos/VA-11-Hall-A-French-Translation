@@ -1,9 +1,5 @@
 name: Build RC Artifacts
-on: 
-  push:
-    branches:
-      - '**'
-      - '!windows'
+on: workflow_dispatch
 
 jobs:
   build:
