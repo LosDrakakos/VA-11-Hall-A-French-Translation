@@ -1,6 +1,6 @@
 [E:1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] *Baille*[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] *Baille* [STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] *Soupire* (Purée, Il n'y a personne ce #soir...)[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] (Au moins je ne sers pas des chiens.)[STOPLIP:]
