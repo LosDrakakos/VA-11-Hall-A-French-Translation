@@ -144,7 +144,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Donc, tu veux quelque chose?[STOPLIP:]
 [XS:radtalk,1][C:32]Rad Shiba:[C:C] En fait, je vais juste aller m'asseoir #là-bas et rester en standby. Et attendre les ordres.[XS:radhide,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ok.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] ...merde, j'ai loupé ma chance de lui #demander de quelle manière, ou s'il se fait même #payer en monnaie.[XS:client,2][XS:ph,1}[E:7][STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] ...merde, j'ai loupé ma chance de lui #demander de quelle manière, ou s'il se fait même #payer en monnaie.[XS:client,2][XS:ph,1][E:7][STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Bon, c'est clair faut que je me torche.[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] J'ai du mal à imaginer comme le fait de te #torcher t'aidera à aller mie-... #SHIBAAAAAAAAAAAAA!!![STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Putain de bon dieu, espèce de tas de #feraille, on vient juste de sortir d'un bâtiment #rempli de chiens.[STOPLIP:]

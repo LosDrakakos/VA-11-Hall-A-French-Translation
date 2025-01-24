@@ -131,7 +131,7 @@
 [XS:doroface,angry][XS:dorotalk,1][C:18]Dorothy:[C:C] Hé! Y'a pas d'alcool là-dedans![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] T'as réagi, au moins.[STOPLIP:]
 [XS:doroface,][XS:dorotalk,1][C:18]Dorothy:[C:C] Oh...[XS:mix,0][XS:ph,3][E:14][STOPLIP:]
-[RES:[XS:jilltalk,1][C:13]Jill:[C:C] Et voilà.[STOPLIP:]
+[RES:][XS:jilltalk,1][C:13]Jill:[C:C] Et voilà.[STOPLIP:]
 [XS:doroface,][XS:dorotalk,1][C:18]Dorothy:[C:C] C'est un...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Tu m'a dit que tu aimais boire un Piano #Woman quand tu voulais célébrer quelque-chose ou #quand tu étais triste, pas vrai? [STOPLIP:]
 [XS:doroface,think][XS:dorotalk,1][C:18]Dorothy:[C:C] J'ai dit ça?[STOPLIP:]
