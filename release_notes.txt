@@ -1,46 +1,45 @@
-# CECI EST UN REUPLOAD DU PATCH DATANT DE MAI 2024 POUR TESTER L'AUTOMATISATION DE CONSTRUCTION DES SETUPS 
+# Patch FR v1.1.0 Prologue + Corrections diverses
+#### Correction de "doux" en "sans alcool", corrections des articles Augmented Eyes, corrections des articles Danger/u/, corrections des articles du blog de Kira Miki, et corrections mineures
 
-### PATCH FR Finalisé, L’expérience de jeu sera au rendez-vous.
+Le jeu en entier est enfin traduit, il ne reste que la correction des coquilles ayant pu fuir nos yeux vigilants.
 
-Le prologue n'est toujours pas traduit, mais il viendra plus tard ! 😜
+Disponible au téléchargement une version alternative (PS-Edition) adaptée aux personnes photosensible par SpiritOfRei
 
-Cette version retraduit intégralement le jour 3 qui en avait bien besoin.
+--------------------------------------------------------------------------
 
-Intègre également moultes corrections mineures (fautes, depassement, etc.), un grand merci à Gamecraft, Darcol_Destolle, Cow et les autres personnes ayant signalé les diverses erreurs sur Discord.
+Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A: VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
 
-Disponible au téléchargement une version alternative adaptée aux personnes photosensible par SpiritOfRei
-
-##########################################################################
-
-Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A : VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
-
-Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro de l’Équipe Mirai.
+Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro et une autre partie Gordon Frenchman.
 
 Également, notez que la publication de cette traduction n'a été approuvé ni par les développeurs du jeu, ni par l'éditeur.
 
-Bien qu'une partie de la traduction soit issue du "leak" de la version qui devait être la version officielle, notez qu'une bonne partie de la traduction n'en est pas issue.
+Bien qu'une partie de la traduction soit issue du "leak" de la version qui devait être la version officielle, notez qu'une bonne partie de la traduction n'en est pas issue et que le reste a été duement révisé, leurs choix de traduction et les notres divergeants sur certains points.
 
 Cette version de la traduction et sa distribution ne bénéficient pas d'une quelconque bénédiction des ayants droits.
 
 La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur. CC BY-NC-SA 4.0
 
-##########################################################################
+L'équipe de traduction "Officielle" comptait les membres suivants: Benjamin "Gordon Frenchman/Jcdenton" Doussot, Piapiou, Odrake, Vaea, Nävis, Keithan, Melhoodiey, DjDeathrow, et Kazuhiro. Merci à eux, sans qui notre travail aurait été bien plus long et complexe.
 
-### Ce qui a été fait
+--------------------------------------------------------------------------
 
-   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata et Shushurocket )
+ ### Ce qui a été fait
+
+   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket)
    - Les monologues de Jill par TheDrakakis
    - Les "dialogues" avec Fore par TheDrakakis
    - Une grande partie de l'interface par TheDrakakis
    - L'autre partie de l'interface par Shushurocket
    - Les recettes des boissons TheDrakakis
-   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis, relecture + harmonisation + intégration The Drakakis)
-   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis)
-   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis)
-
+   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - La trad du prologue (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata, Kamy et Shushurocket)
+   - Relecture générale par Kamy, Shikanata, Shushurocket, et The Drakakis
 
 ### Ce qui reste à faire
 
-   - La trad du prologue
-   - La corrections des erreurs nous ayant échappées
+   - La correction des erreurs nous ayant échappées
+   - La version Switch : on a fait une version dépackagée de notre jeu pour pouvoir faire un mod via le layerfs Atmosphere (compatible switch moddées et émulateurs), c'est juste que la structure du texte et du data.win est un peu différente. On sait comment faire techniquement, cela dit on a un peu la flemme d'intégrer la traduction dedans parce que c'est fastidieux, mais un jour, promis)
+   - La version Vita (on a pas regardé la partie technique pas dit que ca arrive un jour, mais on a une console moddée sous la main, c'est un bon début)
 

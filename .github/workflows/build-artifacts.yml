@@ -1,0 +1,82 @@
+name: Build RC Artifacts
+on: workflow_dispatch
+
+jobs:
+  build:
+    name: Setup and Tarball build
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Git LFS Pull 
+        run: git lfs pull
+
+      - name: Setting env vars from .env
+        uses: xom9ikk/dotenv@v2.3.0
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y%m%d-%H%M')"
+
+      - name: Compile Windows Installer
+        uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
+        env:
+          APPNAME: ${{ env.APPNAME }}
+          APPVERSION: ${{ env.APPVERSION }}_RCBuild-${{ steps.date.outputs.date }}
+        with:
+          path: setup.iss
+          options: /O+
+
+      - name: Compile PS-Edition Windows Installer
+        uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
+        env:
+          APPNAME: ${{ env.APPNAME }}
+          APPVERSION: ${{ env.APPVERSION }}_RCBuild-${{ steps.date.outputs.date }}
+        with:
+          path: setup_ps-edition.iss
+          options: /O+
+
+      - name: Prepare Linux std files
+        shell: bash
+        run: |
+          mkdir assets
+          mv scripts assets/scripts
+          mv data.win assets/game.unx
+          ls -laR assets
+
+      - name: Compress Linux std files
+        uses: a7ul/tar-action@v1.2.0
+        id: compress2
+        with:
+          command: c
+          cwd: ./
+          files: |
+            ./assets/
+            ./Lisez-Moi-PatchFR_Linux.txt
+          outPath: Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Linux.tar.gz
+
+      - name: Prepare Linux PS files
+        shell: bash
+        run: |
+          rm assets/game.unx
+          mv ps/data.win assets/game.unx
+          ls -laR assets
+
+      - name: Compress Linux ps files
+        uses: a7ul/tar-action@v1.2.0
+        id: compress
+        with:
+          command: c
+          cwd: ./
+          files: |
+            ./assets/
+            ./Lisez-Moi-PatchFR_Linux.txt
+          outPath: Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Linux_PS-Edition.tar.gz
+
+      - name:
+        uses: actions/upload-artifact@v4
+        with:
+          path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Output\*

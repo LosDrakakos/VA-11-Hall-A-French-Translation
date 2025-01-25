@@ -108,7 +108,7 @@
 [RES:][XS:jilltalk,1][C:13]Jill:[C:C] Et voilà.[STOPLIP:]
 [XS:intalk,1][C:21]Ingram:[C:C] Hmph.[XS:intalk,0][XS:mix,0][XS:ph,7][E:15][STOPLIP:]
 [RES:][XS:jilltalk,1][C:13]Jill:[C:C] Et voilà.[STOPLIP:]
-[XS:intalk,1][C:21]Ingram:[C:C] *soupir* D'accord, d'accord...[XS:intalk,0][XS:mix,0][XS:ph,7][E:16][STOPLIP:]
+[XS:intalk,1][C:21]Ingram:[C:C] *Soupir* D'accord, d'accord...[XS:intalk,0][XS:mix,0][XS:ph,7][E:16][STOPLIP:]
 [RES:][XS:jilltalk,1][C:13]Jill:[C:C] Et voilà.[STOPLIP:]
 [XS:intalk,1][C:21]Ingram:[C:C] Et tu t'es plantée.[XS:intalk,0][XS:mix,0][XS:ph,7][E:17][STOPLIP:]
 [XS:intalk,1][C:21]Ingram:[C:C] Dites, votre tête me dit quelque-chose, #monsieur...[XS:intalk,0][STOPLIP:]

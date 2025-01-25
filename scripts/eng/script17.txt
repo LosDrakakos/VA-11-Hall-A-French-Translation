@@ -689,7 +689,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C]J'étais convaincue que ça signifiait "Sage #décision".[STOPLIP:]
 [XS:almaface,sigh][XS:almatalk,1][C:14]Alma:[C:C]Jill, PERSONNE ne lirait ça "six-neuf".[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]J-J'avais douze ans à l'époque...[STOPLIP:]
-[XS:almaface,serious][XS:almatalk,1][C:14]Alma:[C:C]Bordel même à douze ans, je savais ce qu'était #un soixante-neuf. A quel point t'étais nunuche?[STOPLIP:]
+[XS:almaface,serious][XS:almatalk,1][C:14]Alma:[C:C]Bordel même à douze ans, je savais ce qu'était #un soixante-neuf. À quel point t'étais nunuche?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]...t'as pas idée.[STOPLIP:]
 [XS:almaface,sigh][XS:almatalk,1][C:14]Alma:[C:C]Allez, on va adoucir un peu les choses. #Je vais prendre un Sugar Rush.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Bien sûr.[XS:ph,4][XS:mix,1][E:62][STOPLIP:]
