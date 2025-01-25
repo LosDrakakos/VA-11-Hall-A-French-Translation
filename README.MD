@@ -4,10 +4,10 @@
 **Ce patch ne permet pas de lancer le jeu sans disposer d'une copie du jeu, ni de contourner un quelconque système de DRM.**
 
  1. [Préambule](#pr%C3%A9ambule)
- 2. [Ce qui a été fait](#ce-qui-a-%C3%A9t%C3%A9-fait)
- 3. [Installer-Utiliser le patch](#installer-utiliser-le-patch)
- 4. [Désinstaller le patch](#d%C3%A9sinstaller-le-patch)
- 5. [Contribuer](#contribuer)
+ 2. [Installer-Utiliser le patch](#installer-utiliser-le-patch)
+ 3. [Désinstaller le patch](#d%C3%A9sinstaller-le-patch)
+ 4. [Contribuer](#contribuer)
+ 5. [Ce qui a été fait](#ce-qui-a-%C3%A9t%C3%A9-fait)
  6. [Ce qui reste à faire](#ce-qui-reste-%C3%A0-faire)
  7. [Crédits et remerciements](#cr%C3%A9dits-et-remerciements)
 
@@ -24,20 +24,6 @@ Cette version de la traduction et sa distribution ne bénéficient pas d'une que
 La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur. CC BY-NC-SA 4.0 (voir [LICENSE.MD](https://github.com/LosDrakakos/VA-11-Hall-A-French-Translation?tab=License-1-ov-file) pour les détails, mais en gros vous faites ce que vous voulez avec tant que : tout le monde est crédité, que cela reste non commercial, et que toutes les oeuvres dérivées de la traduction sont distribuées dans les mêmes conditions). 
 
 Cette traduction est disponible gratuitement sur le site [https://va11-fr.drakakorp.eu](https://va11-fr.drakakorp.eu) ou ici dans l'onglet [Releases](https://github.com/LosDrakakos/VA-11-Hall-A-French-Translation/releases)
-
-### Ce qui a été fait
-
-   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket )
-   - Les monologues de Jill par TheDrakakis
-   - Les "dialogues" avec Fore par TheDrakakis
-   - Une grande partie de l'interface par TheDrakakis
-   - L'autre partie de l'interface par Shushurocket
-   - Les recettes des boissons TheDrakakis
-   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis. Relecture + harmonisation + intégration The Drakakis)
-   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman. Relecture + harmonisation + intégration The Drakakis)
-   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis)
-   - La trad du prologue (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata, Kamy et Shushurocket)
-   - Relecture générale par Kamy, Shikanata, Shushurocket, et The Drakakis
 
 ### Installer / Utiliser le patch
 Ce patch remplace complètement la version anglaise du jeu, pour jouer au jeu en anglais après avoir installé le patch, il vous faudra restaurer les fichiers d'origine (via [steam](https://help.steampowered.com/fr/faqs/view/0C48-FCBD-DA71-93EB) par exemple).
@@ -73,12 +59,25 @@ Pour contribuer deux options :
  - Faire une PR sur la branche `update/x.x.x` avec les corrections à apporter.
  (Pour les PR, merci de forker le projet avant. Aucune modifications sur le data.win ne sera acceptée, pour les erreurs situées dans ce fichier, merci de les reporter sur discord vu que les modifications au sein d'un binaire ne sont pas trackable via git. La langue des messages de commits peut être l'Anglais ou le Français.)
 
+ ### Ce qui a été fait
+
+   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket )
+   - Les monologues de Jill par TheDrakakis
+   - Les "dialogues" avec Fore par TheDrakakis
+   - Une grande partie de l'interface par TheDrakakis
+   - L'autre partie de l'interface par Shushurocket
+   - Les recettes des boissons TheDrakakis
+   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - La trad du prologue (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata, Kamy et Shushurocket)
+   - Relecture générale par Kamy, Shikanata, Shushurocket, et The Drakakis
+
 ### Ce qui reste à faire
 
    - La correction des erreurs nous ayant échappées
-   - La correction des erreurs connues dans les images
    - La version Switch : on a fait une version dépackagée de notre jeu pour pouvoir faire un mod via le layerfs Atmosphere (compatible switch moddées et émulateurs), c'est juste que la structure du texte et du data.win est un peu différente. On sait comment faire techniquement, cela dit on a un peu la flemme d'intégrer la traduction dedans parce que c'est fastidieux, mais un jour, promis)
-   - La version Vita (on a pas regardé pas dit que ca arrive un jour)
+   - La version Vita (on a pas regardé la partie technique pas dit que ca arrive un jour, mais on a une console moddée sous la main, c'est un bon début)
 
 ### Crédits et remerciements
 **Notre équipe / l'équipe de traduction non-officielle / l'équipe de va11-fr (on a pas vraiment de nom en fait):**

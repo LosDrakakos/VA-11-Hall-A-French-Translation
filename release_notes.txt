@@ -1,4 +1,5 @@
-# Version 1.1.0 Epilogue, correction de "doux" en "sans alcool" et corrections mineures
+# Version 1.1.0 Epilogue + Corrections diverses
+### Correction de "doux" en "sans alcool", corrections des articles Augmented Eyes, corrections des articles Danger/u/, corrections des articles du blog de Kira Miki, et corrections mineures
 
 Le jeu en entier est enfin traduit, il ne reste que la correction des coquilles ayant pu fuir nos yeux vigilants.
 
@@ -22,22 +23,23 @@ L'équipe de traduction "Officielle" comptait les membres suivants: Benjamin "Go
 
 --------------------------------------------------------------------------
 
-### Ce qui a été fait
+ ### Ce qui a été fait
 
-   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata et Shushurocket )
+   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket )
    - Les monologues de Jill par TheDrakakis
    - Les "dialogues" avec Fore par TheDrakakis
    - Une grande partie de l'interface par TheDrakakis
    - L'autre partie de l'interface par Shushurocket
    - Les recettes des boissons TheDrakakis
-   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis, relecture + harmonisation + intégration The Drakakis)
-   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis)
-   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis)
+   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis et Shushurocket)
    - La trad du prologue (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata, Kamy et Shushurocket)
-
+   - Relecture générale par Kamy, Shikanata, Shushurocket, et The Drakakis
 
 ### Ce qui reste à faire
 
    - La correction des erreurs nous ayant échappées
-   - La correction des erreurs connues dans les images
+   - La version Switch : on a fait une version dépackagée de notre jeu pour pouvoir faire un mod via le layerfs Atmosphere (compatible switch moddées et émulateurs), c'est juste que la structure du texte et du data.win est un peu différente. On sait comment faire techniquement, cela dit on a un peu la flemme d'intégrer la traduction dedans parce que c'est fastidieux, mais un jour, promis)
+   - La version Vita (on a pas regardé la partie technique pas dit que ca arrive un jour, mais on a une console moddée sous la main, c'est un bon début)
 

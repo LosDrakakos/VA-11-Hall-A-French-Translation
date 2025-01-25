@@ -9,36 +9,62 @@ En cas de doutes sur la localisation des fichiers du jeu, ne pas hésiter à uti
 
 Ceci est un patch intégrant la traduction française Non-Officielle du jeu "VA-11 Hall-A : VA-11 Hall-A: Cyberpunk Bartender Action" par Sukeban Games.
 
-Il est à noter que ce patch est complètement amateur et est fournis à titre gratuit, si vous avez payé pour cette traduction, demandez à vous faire rembourser.
-
-Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro de l’Équipe Mirai.
-
+Une partie de la traduction est issue de la traduction qui devait être l'officielle, fournie par Kazuhiro de l’Équipe Mirai et dans un second temps par Gordon Frenchman de l’équipe de traduction officielle.
 Également, notez que la publication de cette traduction n'a été approuvé ni par les développeurs du jeu, ni par l'éditeur.
 
-Cependant, si l'éditeur trouve quelque chose à redire sur cette traduction, je l'invite cordialement à se rapprocher des bénévoles lui ayant déjà fourni une traduction du jeu vers 2016 et que l'équipe éditoriale a sciemment décidé de ne pas intégrer.
-
-Bien qu'une partie de la traduction soit issue du "leak" de la version qui devait être la version officielle, notez qu'une bonne partie de la traduction n'en est pas issue.
+Bien qu'une partie de la traduction soit issue du "leak" de la version qui devait être la version officielle, notez qu'une bonne partie de la traduction n'en est pas issue, a été retraduite ou reformulée affin de rester harmonieuse avec notre vision de l'adaptation.
 
 Cette version de la traduction et sa distribution ne bénéficient pas d'une quelconque bénédiction des ayants droits.
 
-La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur.
+La partie "Non-Officielle" de la traduction représente tout de même un travail conséquent et est protégée par le droit d'auteur. CC BY-NC-SA 4.0 (voir LICENSE.MD pour les détails, mais en gros vous faites ce que vous voulez avec tant que : tout le monde est crédité, que cela reste non commercial, et que toutes les oeuvres dérivées de la traduction sont distribuées dans les mêmes conditions).
 
-Cette traduction (hors parties traduites par l'équipe de Gordon Frenchman sans retouches) est donc sous Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.
-Cette traduction est disponible gratuitement sur le site https://va11-fr.drakakorp.eu
+Cette traduction est disponible gratuitement sur le site https://va11-fr.drakakorp.eu ou ici dans l'onglet Releases sur notre github https://github.com/LosDrakakos/VA-11-Hall-A-French-Translation/ .
 
-
+----------------------
 Ce qui a été traduit
 
-   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata et Shushurocket )
+   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket )
    - Les monologues de Jill par TheDrakakis
    - Les "dialogues" avec Fore par TheDrakakis
-   - L'interface par TheDrakakis
+   - Une grande partie de l'interface par TheDrakakis
+   - L'autre partie de l'interface par Shushurocket
    - Les recettes des boissons TheDrakakis
-   - La trad des articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis)
-   - La trad des articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis, relecture + harmonisation + intégration The Drakakis)
+   - Les articles de The Augmented Eye (Traduits par l'équipe de Gordon Frenchman et par TheDrakakis. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Les articles de /Danger/U/ (Traduits par l'équipe de Gordon Frenchman. Relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis et Shushurocket)
+   - La trad du prologue (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata, Kamy et Shushurocket)
+   - Relecture générale par Kamy, Shikanata, Shushurocket, et The Drakakis
 
 Ce qui reste à faire :
-   - La traduction du prologue
-   - Corrections des erreurs nous ayant échapées
-   
-Je souhaiterais pouvoir créditer tous les membres de l'équipe de Gordon Frenchman, cependant ne connaissant pas leur identité, je suis pas en mesure de le faire.
+   - La correction des erreurs nous ayant échappées
+
+----------------------
+Crédits et remerciements
+**Notre équipe / l'équipe de traduction non-officielle / l'équipe de va11-fr (on a pas vraiment de nom en fait):**
+ - TheDrakakis
+ - Shikanata
+ - Shushurocket
+ - Kamy
+
+**L'équipe de traduction "officielle"/ L'équipe de Gordon Frenchman:**
+ - Benjamin "Gordon Frenchman/Jcdenton" Doussot
+ - Piapiou
+ - Odrake
+ - Vaea
+ - Nävis
+ - Keithan
+ - Melhoodiey
+ - DjDeathrow
+ - Kazuhiro
+
+Merci à eux, sans qui notre travail aurait été bien plus long et complexe.  
+
+Merci à [SpiritOfRei](https://linktr.ee/spiritofrei) de nous avoir permis d'intégrer son mod incluant des modifications spécifiques pour personnes photosensible.  
+
+Merci également aux utilisateurs du [Discord](https://discord.gg/9yRBZqydKw) nous ayant fait remonter moult erreurs, coquilles, bugs, et retours à la ligne manquants (de manière non exhaustive) :
+ - Gamecraft
+ - Darcol_Destolle
+ - Cow
+ - SleepyHuman
+
+Merci à Sukeban pour Va-11 Hall-A, nous attendons la "suite" avec impatience.  
