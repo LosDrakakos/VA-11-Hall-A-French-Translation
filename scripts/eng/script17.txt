@@ -435,7 +435,7 @@
 [XS:steltalk,1][C:16]Stella:[C:C]Tout ça parce qu'il était un type sympa par #dessus tout.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Ça m'a tout l'air d'un bon conseil.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Mais plus important encore, "papa"?[STOPLIP:]
-[XS:stelface,baka][XS:steltalk,1][C:16]Stella:[C:C]...*ahem*[XS:ph,7][E:42][STOPLIP:]
+[XS:stelface,baka][XS:steltalk,1][C:16]Stella:[C:C]...*Ahem*[XS:ph,7][E:42][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Vous me croyez aussi facilement quand je vous #dit qu'elle était là?[STOPLIP:]
 [XS:stelface,][XS:steltalk,1][C:16]Stella:[C:C]Vous n'êtes pas du genre à mentir à propos #de ce genre de choses, donc oui.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Merci, je crois.[STOPLIP:]

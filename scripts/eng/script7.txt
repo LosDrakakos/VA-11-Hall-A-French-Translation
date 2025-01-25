@@ -355,7 +355,7 @@
 [XS:arttalk,1][C:26]Art:[C:C] Moi? Heu...[STOPLIP:]
 [XS:arttalk,1][C:26]Art:[C:C] La même chose que vous.[STOPLIP:]
 [XS:steltalk,1][C:16]Stella:[C:C] Deux Bad Touches, s'il vous plaît.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] *pfft* En avant.[XS:ph,4][XS:mix,1][E:24][STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] *Pfft* En avant.[XS:ph,4][XS:mix,1][E:24][STOPLIP:]
 [RES:][XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
 [XS:steltalk,1][C:16]Stella:[C:C] Je me rappelle de cette bringue où je suis #allée. Le gars qui a inventé le nom de cette #boisson s'y est pointé.[STOPLIP:]
 [XS:steltalk,1][C:16]Stella:[C:C] Quand les gens s'en sont rendus compte, #ils ont fait la queue pour le gifler pour je ne #sais quelle raison.[STOPLIP:]

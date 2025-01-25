@@ -139,7 +139,7 @@
 [XS:dantalk,1][C:15]Dana:[C:C] En bon français, s'il te plaît.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Celle-ci a une couleur plus claire et un #goût plus léger.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Chais pas, je trouve pas le goût plus léger #justement.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] *pffffft*[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] *Pffffft*[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Est ce que celle-ci est fait avec... hum... #c'est quoi le nom de cette base liquide dont tu #te sers au bar déjà?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Lydogenol Dichrométrique Nutrigénique, ou #LDN.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] C'était un complément ou un truc du genre, #n'est-ce pas?[STOPLIP:]
