@@ -214,7 +214,7 @@
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Hmm...[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Nous avons tout les deux le même #objectif, mais...[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]DFC-72s ont un port sur leurs têtes, #ce qui les rend plus versatiles.[STOPLIP:]
-[XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Ma gamme n'a pas ça ainsi que la #résilience des DT-01Ds, mais nous sommes un poil #plus raffiné dans d'autres domaines.[STOPLIP:]
+[XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Ma gamme n'a pas ça ainsi que la #résilience des DT-01Ds, mais nous sommes un poil #plus rafiné dans d'autres domaines.[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Plus précisément notre émulateur vocal #est plus avancé et nos mouvements sont plus #fluides.[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Un compromis entre fonctionnalité et #puissance pour l'apparence, on pourrait dire.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Ah, je vois.[XS:ph,8][E:27][STOPLIP:]
