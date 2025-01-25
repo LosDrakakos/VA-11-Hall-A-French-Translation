@@ -478,7 +478,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Une semaine?![STOPLIP:]
 [XS:streamtalk,1][C:27]Streaming-chan:[C:C] Les semaines, c'est bien celle #avec 30 jours, c'est ça?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Um...[STOPLIP:]
-[XS:streamtalk,1][C:27]Streaming-chan:[C:C] Yep, totalement crevée. Je sens #mes paupières qui s'allourdissent.[STOPLIP:]
+[XS:streamtalk,1][C:27]Streaming-chan:[C:C] Ouaip, totalement crevée. Je sens #mes paupières qui s'allourdissent.[STOPLIP:]
 [XS:streamtalk,1][C:27]Streaming-chan:[C:C] Et il y a cette espèce de latence #quand j'essaye de bouger. C'est quoi ce délire?[STOPLIP:]
 [XS:streamtalk,1][C:27]Streaming-chan:[C:C] Bon ben je crois que je vais faire #une petite sieste avant de filer et de continuer #la nuit.[STOPLIP:][CHAT:no]
 [XS:streamtalk,1][C:27]Streaming-chan:[C:C] Si vous voulez bien m'excuser...[XS:streamhide,1][STOPLIP:]

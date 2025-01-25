@@ -358,7 +358,7 @@
 [XS:antalk,1][C:41]Anna:[C:C] Après, j'vais pas me plaindre. Je suis en #vie grâce à ça.[XS:antalk,0][STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] Et je suis partie avec beaucoup de bons #souvenirs aussi.[XS:antalk,0][XS:next,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] C'est ça que tu voulais dire lorsque tu #parlais de "te sentir nostalgique dans des lieux #isolés".[XS:next,1][STOPLIP:]
-[XS:antalk,1][C:41]Anna:[C:C] Yep.[XS:antalk,0][STOPLIP:]
+[XS:antalk,1][C:41]Anna:[C:C] Ouaip.[XS:antalk,0][STOPLIP:]
 [XS:anface,sad][XS:antalk,1][C:41]Anna:[C:C] ...[XS:next,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Est-ce que ça va?[XS:next,1][STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] O-Ouais... J'vais bien. Juste la tête qui #tourne.[XS:antalk,0][XS:ph,16][E:24][STOPLIP:]

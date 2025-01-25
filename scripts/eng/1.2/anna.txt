@@ -133,7 +133,7 @@
 [XS:antalk,1][C:41]Anna:[C:C] Tu sais que je t'écoute et que se la jouer #cool ne te mènera à rien.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Laisse béton.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] J'ai le droit à une question maintenant, #n'est-ce pas?[STOPLIP:]
-[XS:antalk,1][C:41]Anna:[C:C] Yep.[XS:ph,3][E:4][STOPLIP:]
+[XS:antalk,1][C:41]Anna:[C:C] Ouaip.[XS:ph,3][E:4][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ok, pourquoi je suis la seule à pouvoir te #voir?[STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] Sois pas si prétentieuse. Tu n'est pas la #seule personne qui arrive à me voir.[STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] Tu es juste la seule parmis ton cercle de #connaissances.[STOPLIP:]

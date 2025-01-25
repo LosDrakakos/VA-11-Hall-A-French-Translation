@@ -1,6 +1,6 @@
 ﻿[E:1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] B'soir.[STOPLIP:]
-[SHOW:185,sprite_dana][XS:danaface,worry][XS:dantalk,1][C:15]Dana:[C:C] Bon,il y a au moins un de mes employés qui #s'est pointé.[STOPLIP:]
+[SHOW:185,sprite_dana][XS:danaface,worry][XS:dantalk,1][C:15]Dana:[C:C] Bon, il y a au moins un de mes employés qui #s'est pointé.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Hein? Et Gil?[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Il a baragouiné quelque chose au sujet de #trous et de vermine, et a demandé quelques jours #de congés.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] La routine habituelle, quoi.[STOPLIP:]

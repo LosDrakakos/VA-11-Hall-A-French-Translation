@@ -380,7 +380,7 @@
 [FRAME:][XS:anface,happy][XS:antalk,1][C:41]Anna:[C:C] Et voilà![XS:antalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] (Rien n'a changé.)[STOPLIP:]
 [XS:anface,][XS:antalk,1][C:41]Anna:[C:C] T'es sûre?[XS:antalk,0][STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] (Yep.)[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] (Ouaip.)[STOPLIP:]
 [FRAME:][XS:anface,awayhalf][XS:antalk,1][C:41]Anna:[C:C] Bizarre.[XS:antalk,0][STOPLIP:]
 [SHOW:290,sprite_anna][SHOW:185,sprite_doro][XS:doroface,pachi][XS:anface,][C:12]Dorothy:[C:C][XS:dorotalk,1] PERSONNE NE S'ATTEND À LA #DOROTHINQUISITION![STOPLIP:]
 [XS:doroface,][C:12]Dorothy:[C:C][XS:dorotalk,1] Dorothinquisition, Dorothinquisition, #Dorothinqui-[XS:doroface,think]#AIE! Je me suis mordue la langue.[STOPLIP:]
