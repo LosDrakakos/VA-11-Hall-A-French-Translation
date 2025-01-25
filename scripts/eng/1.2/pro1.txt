@@ -12,7 +12,7 @@
 [XS:dantalk,1][C:15]Dana:[C:C] La Seifar Toy Company - ils fabriquent des #jouets pour les chiens. [STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] C'est leur anniversaire ou un truc du #genre.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] On ne fait pas réserver le bar en général. #Pourquoi est-ce qu'on le fait cette fois?[STOPLIP:]
-[XS:dantalk,1][C:15]Dana:[C:C] ...Les clients sont adorables.[STOPLIP:]
+[XS:dantalk,1][C:15]Dana:[C:C] ... Les clients sont adorables.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Pardon?[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Tu verras.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Il y a quelque chose de spécial que je dois #savoir?[STOPLIP:]
