@@ -239,7 +239,7 @@
 [XS:antalk,1][C:41]Anna:[C:C] J'aime aussi l'odeur de l'herbe fraichement #coupée.[STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] J'aime le bruit que font les chats qui #ronronnent [STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] J'aime rire et faire rire les gens.[STOPLIP:]
-[XS:antalk,1][C:41]Anna:[C:C] Et bien sûr, je t'aime toi ou je ne serait #pas là.[STOPLIP:]
+[XS:antalk,1][C:41]Anna:[C:C] Eh bien sûr, je t'aime toi ou je ne serait #pas là.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] C'est une liste concise.[STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] En parlant d'aimer, est-ce que tu aimes ce #que tu vois?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...tu peux répéter?[STOPLIP:]

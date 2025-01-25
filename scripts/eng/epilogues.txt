@@ -88,7 +88,7 @@
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Ouais! Elle continuait d'étudier à l'hopital! C'était une étudiante d'honneur autodidacte![STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Et puis, elle était aussi dans le top cinq à l'éxam d'admission d'au moins trois universités![STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Elle jouait aussi du piano et de la guitare![STOPLIP:]
-[XS:antalk,1][C:41]Anna:[C:C] Et bien, être coincée dans une chambre amène à ce genre #de choses, j'imagine.[STOPLIP:]
+[XS:antalk,1][C:41]Anna:[C:C] Eh bien, être coincée dans une chambre amène à ce genre #de choses, j'imagine.[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Des gens complètement valide peuvent à peine en faire la moitié...[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Mais elle a fait tout ça d'elle-même![STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Et elle a battu la rejection de nanomachines! Un truc qui ne touche que 2% des humains, et dont beaucoup moins en survivent.[STOPLIP:]

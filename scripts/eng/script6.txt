@@ -286,7 +286,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Je vois...[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Toi-meme tu as amené de la vie dans le bar, #tu sais?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Comment ça?[STOPLIP:]
-[XS:dantalk,1][C:15]Dana:[C:C] Et bien, avec les clients réguliers que #tu as glané bien sûr.[STOPLIP:]
+[XS:dantalk,1][C:15]Dana:[C:C] Eh bien, avec les clients réguliers que #tu as glané bien sûr.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Comme cette hackeuse aux gros nichons. #Je me souviens plus de son nom.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Alma?[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] J'allais dire Armitage.[XS:ph,8][E:10][STOPLIP:]

@@ -482,7 +482,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] T'as compris le message, maintenant ramène #toi.[STOPLIP:]
 [XS:almaface,smile][XS:almatalk,1][C:14]Alma:[C:C] Vas-y, guide moi.[XS:ph,27][E:42][STOPLIP:]
 [XS:almaface,][XS:almatalk,1][C:14]Alma:[C:C] Dis Jill, quel est le pire qui pourrait #arriver si tu te trompe dans une commande?[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Et bien... les clients ont le droit de #refuser de me donner de l'argent.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Eh bien... les clients ont le droit de #refuser de me donner de l'argent.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] S'ils ne paient pas, je n'ai pas mon bonus.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Pas de bonus égal moins d'argent et pas de #pourboire... Ce qui ne m'aide pas vraiment à #payer mes factures.[STOPLIP:]
 [XS:almatalk,1][C:14]Alma:[C:C] Oh, je vois...[STOPLIP:]

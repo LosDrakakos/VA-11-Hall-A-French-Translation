@@ -247,7 +247,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Non, merci.[STOPLIP:]
 [XS:streamface,ex][XS:streamtalk,1][C:27]Streaming-chan:[C:C] Soyez pas timide, laissez-moi #vous en offrir une![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je vais me répéter. Non, merci.[STOPLIP:]
-[XS:streamtalk,1][C:27]Streaming-chan:[C:C] Et bien, trop tard. C'est #déjà dans votre lecteur![XS:gogo,1][STOPLIP:]
+[XS:streamtalk,1][C:27]Streaming-chan:[C:C] Eh bien, trop tard. C'est #déjà dans votre lecteur![XS:gogo,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] C'est pas-... Mais #bordel de merde comment vous avez fait ça?[STOPLIP:]
 [XS:streamtalk,1][C:27]Streaming-chan:[C:C] D'la magie![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Des conneries.[STOPLIP:]
