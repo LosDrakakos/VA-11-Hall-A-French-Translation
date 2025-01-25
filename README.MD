@@ -61,7 +61,7 @@ Pour contribuer deux options :
 
  ### Ce qui a été fait
 
-   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket )
+   - Les dialogues du bar (Traduits par l'équipe de Gordon Frenchman ainsi que The Drakakis, Shikanata et Shushurocket. Relus, harmonisés et intégrés par The Drakakis, Shikanata et Shushurocket)
    - Les monologues de Jill par TheDrakakis
    - Les "dialogues" avec Fore par TheDrakakis
    - Une grande partie de l'interface par TheDrakakis
