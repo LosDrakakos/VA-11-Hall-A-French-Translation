@@ -654,7 +654,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Mais il est aussi distant et il hésitera pas #à faire plusieurs pas en arrière s'il commence à #se sentir trop proche de quelqu'un.[STOPLIP:]
 [XS:mariotalk,1][C:34]Mario:[C:C] Vous n'êtes pas obligée de l'épouser, vous #avez juste à le balancer dans un placard, et...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Euh.. pas intéressée.[STOPLIP:]
-[XS:mariotalk,1][C:34]Mario:[C:C] Vous m'ennuyez, barmaid. Vous ne voyez pas #ce que vous avez pile poil en face de vous.[STOPLIP:]
+[XS:mariotalk,1][C:34]Mario:[C:C] Vous m'ennuyez, Barmaid. Vous ne voyez pas #ce que vous avez pile poil en face de vous.[STOPLIP:]
 [XS:mariotalk,1][C:34]Mario:[C:C] J'me tire![XS:mariohide,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] N'hésitez pas à repasser.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]

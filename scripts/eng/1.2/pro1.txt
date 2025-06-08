@@ -282,7 +282,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Le ticket sera périmé cela dit.[STOPLIP:]
 [SHOW:185,sprite_deal][XS:dealtalk,1][C:25]???:[C:C] Elle a l'air d'être le genre de fille qui #vous fera tenir votre promesse quoi qu'il arrive.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Sans blague?[STOPLIP:]
-[XS:dealtalk,1][C:25]???:[C:C] Bien, il faut que j'aille rassembler les #taxis dehors. Haut les coeurs, barmaid. Bonne #soirée.[XS:dealhide,1][STOPLIP:]
+[XS:dealtalk,1][C:25]???:[C:C] Bien, il faut que j'aille rassembler les #taxis dehors. Haut les coeurs, Barmaid. Bonne #soirée.[XS:dealhide,1][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ouais, vous aussi. Bonne soirée. N'hésitez #pas à revenir.[STOPLIP:]
 [XS:dealtalk,1][C:25]???:[C:C] Très bien, messieurs. Fin de la soirée. Il #est temps de retourner à vos niches![STOPLIP:]
 [SHOW:185,sprite_dana][XS:dantalk,1][C:15]Dana:[C:C] On en a fini?[STOPLIP:]

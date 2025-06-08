@@ -212,7 +212,7 @@
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Bien sûr![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C]Y'a-t-il des différences entre vous et un #DFC-72?[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Hmm...[STOPLIP:]
-[XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Nous avons tout les deux le même #objectif, mais...[STOPLIP:]
+[XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Nous avons tous les deux le même #objectif, mais...[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]DFC-72s ont un port sur leurs têtes, #ce qui les rend plus versatiles.[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Ma gamme n'a pas ça ainsi que la #résilience des DT-01Ds, mais nous sommes un poil #plus rafiné dans d'autres domaines.[STOPLIP:]
 [XS:mikitalk,1][C:42]*Kira* Miki:[C:C]Plus précisément notre émulateur vocal #est plus avancé et nos mouvements sont plus #fluides.[STOPLIP:]
