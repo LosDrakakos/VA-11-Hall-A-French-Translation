@@ -224,7 +224,7 @@
 [XS:bettytalk,1][C:24]Betty:[C:C] Deux ont perdu leurs mains, une autre #n'était plus qu'une ruine arthritique, et la #dernière est morte sur la table d'opération.[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Donc, ouais. Je suis pas fan des #améliorations.[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] EN PARTICULIER quand on fait l'effort de #les installer pour nous préserver de... tout #effort.[STOPLIP:]
-[XS:bettytalk,1][C:24]Betty:[C:C] Ca me fout vraiment les nerfs cette culture #du "devenir automatiquement meilleur avec des #améliorations".[STOPLIP:]
+[XS:bettytalk,1][C:24]Betty:[C:C] Ça me fout vraiment les nerfs cette culture #du "devenir automatiquement meilleur avec des #améliorations".[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Ça me parle cette histoire... est-ce que ce #type louche avait une moustache blanchie et des #sourcils noirs tatoués?[STOPLIP:]
 [XS:bettyface,][XS:bettytalk,1][C:24]Betty:[C:C] Il parlait aussi en utilisant un #laryngophone. Vous l'avez vu?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Non, mais je me souviens avoir vu aux infos #que la police avait appréhendé quelqu'un qui #pratiquait des chirurgies illégales.[STOPLIP:]

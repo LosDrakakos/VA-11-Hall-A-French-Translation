@@ -586,7 +586,7 @@
 [XS:seitalk,1][C:17]Sei:[C:C] J'ai jamais prévu de plan B parce que je me #disais que si j'avais un plan B, autant en faire #mon plan A.[STOPLIP:]
 [XS:seitalk,1][C:17]Sei:[C:C] Je ne suis pas vraiment une lumière, du coup #je ne suis jamais allée à l'université, j'ai même #pas fini le lycée.[STOPLIP:]
 [XS:seitalk,1][C:17]Sei:[C:C] Je pourrais aller dans la police, mais ça ne #serait pas aussi excitant...[STOPLIP:]
-[XS:seitalk,1][C:17]Sei:[C:C] ...et j'en ai marre de la corruption. Ca me #rend malade.[STOPLIP:]
+[XS:seitalk,1][C:17]Sei:[C:C] ...et j'en ai marre de la corruption. Ça me #rend malade.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Oh...[STOPLIP:]
 [XS:seiface,][XS:seitalk,1][C:17]Sei:[C:C] Mais je suis en vie.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Hmm?[STOPLIP:]
