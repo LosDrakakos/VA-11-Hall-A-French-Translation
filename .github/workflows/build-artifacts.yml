@@ -44,7 +44,7 @@ jobs:
         run: |
           mkdir win
           cp -r scripts win/scripts
-          mv data.win win/data.win
+          cp data.win win/data.win
           ls -laR win
 
       - name: Prepare Windows PS files
@@ -66,15 +66,15 @@ jobs:
       - name: Move Windows manual versions to Outputs
         shell: bash
         run: |
-          mv win.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z
-          mv win-ps.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z
+          cp win.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z
+          cp win-ps.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z
 
       - name: Prepare Linux std files
         shell: bash
         run: |
           mkdir assets
-          mv scripts assets/scripts
-          mv data.win assets/game.unx
+          cp scripts assets/scripts
+          cp data.win assets/game.unx
           ls -laR assets
 
       - name: Compress Linux std files
@@ -92,7 +92,7 @@ jobs:
         shell: bash
         run: |
           rm assets/game.unx
-          mv ps/data.win assets/game.unx
+          cp ps/data.win assets/game.unx
           ls -laR assets
 
       - name: Compress Linux ps files
@@ -111,7 +111,7 @@ jobs:
         run: |
           mkdir -p Vita/rePatch/PCSB01166/games/
           cp -r scripts Vita/rePatch/PCSB01166/games/scripts
-          cp Vita/rePatch/PCSB01166/games/scripts/eng Vita/rePatch/PCSB01166/games/scripts/en
+          mv Vita/rePatch/PCSB01166/games/scripts/eng Vita/rePatch/PCSB01166/games/scripts/en
           cp vita/game.win Vita/rePatch/PCSB01166/games/game.win
           ls -laR assets
 
@@ -120,7 +120,7 @@ jobs:
         run: |
           mkdir -p Vita-PS/rePatch/PCSB01166/games/
           cp -r scripts Vita-PS/rePatch/PCSB01166/games/scripts
-          cp Vita-PS/rePatch/PCSB01166/games/scripts/eng Vita-PS/rePatch/PCSB01166/games/scripts/en
+          mv Vita-PS/rePatch/PCSB01166/games/scripts/eng Vita-PS/rePatch/PCSB01166/games/scripts/en
           cp vita/ps/game.win Vita/rePatch/PCSB01166/games/game.win
           ls -laR assets
       
