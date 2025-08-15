@@ -66,7 +66,7 @@ jobs:
         shell: bash
         run: |
           cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z Output/
-          cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Editions.7z Output/
+          cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z Output/
 
       - name: Prepare Linux std files
         shell: bash
