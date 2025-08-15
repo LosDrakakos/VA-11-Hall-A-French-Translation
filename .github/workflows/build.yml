@@ -72,7 +72,7 @@ jobs:
         shell: bash
         run: |
           mkdir assets
-          cp scripts assets/scripts
+          cp -r scripts assets/scripts
           cp data.win assets/game.unx
           ls -laR assets
 
