@@ -45,15 +45,15 @@ jobs:
           mkdir win
           cp -r scripts win/scripts
           mv data.win win/data.win
-          ls -laR assets
+          ls -laR win
 
       - name: Prepare Windows PS files
         shell: bash
         run: |
           mkdir win-ps
-          cp -r scripts win/scripts
-          cp ps/data.win win/data.win
-          ls -laR assets
+          cp -r scripts win-ps/scripts
+          cp ps/data.win win-ps/data.win
+          ls -laR win-ps
       
       - name: Compress Windows Manual Version
         uses: edgarrc/action-7z@v1
