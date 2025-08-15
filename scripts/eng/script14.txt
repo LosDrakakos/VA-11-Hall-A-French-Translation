@@ -258,7 +258,7 @@
 [XS:arttalk,1][C:26]Art:[C:C] Pour être honnête, à ce point, je ne le #faisais que pour ma paix intérieure.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Mais pourquoi est-ce qu'elle a déchiré la #lettre?[STOPLIP:]
 [XS:artface,][XS:arttalk,1][C:26]Art:[C:C] Apparement, ce type n'était pas vraiment #le meilleur des pères.[STOPLIP:]
-[XS:arttalk,1][C:26]Art:[C:C] Elle était née pour des experience. Un #cobaye vivant pour la maladie de son père.[STOPLIP:]
+[XS:arttalk,1][C:26]Art:[C:C] Elle était née pour des expérience. Un #cobaye vivant pour la maladie de son père.[STOPLIP:]
 [XS:arttalk,1][C:26]Art:[C:C] Il allait litéralement l'utiliser pour tester #des traitements, aussi unorthodoxe soient-ils.[STOPLIP:]
 [XS:arttalk,1][C:26]Art:[C:C] Ils ont commencé quand elle était très jeune. #Et quand elle a découvert ce dont son sang était #capable de faire, elle a... cablé.[STOPLIP:]
 [XS:arttalk,1][C:26]Art:[C:C] De sa propre bouche, "Plus personne ne #pouvait m'emmerder, même pas mon père".[STOPLIP:]

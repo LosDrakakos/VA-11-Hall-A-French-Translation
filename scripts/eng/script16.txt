@@ -446,7 +446,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Ou bien Sten...? On va l'appeller Stengovich #pour le moment.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] C'est un businessman dont la fille à naître a #été diagnostiquée avec un Rejet de Nanomachines #précoce.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Donc Stengovich a financé le projet. Et dans #un geste désespéré, sa femme s'est proposée, elle #et sa fille, comme cobayes.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Bien sûr, l'experience fût un succès.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Bien sûr, l'expérience fût un succès.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Sa fille, Silvia Stengovich, n'est pas #morte. Elle est devenue le témoignage vivant d'une #avancée scientifique majeure.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Et puis leur histoire a été sensationalisée #dans les médias et ça a crée une mode bizarre.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Des parents ont soumis leurs enfants à #naitre au processus de chatification, même s'il #n'en avaient pas besoin.[STOPLIP:]
