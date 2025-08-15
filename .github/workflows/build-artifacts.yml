@@ -38,6 +38,39 @@ jobs:
         with:
           path: setup_ps-edition.iss
           options: /O+
+      
+      - name: Prepare Windows std files
+        shell: bash
+        run: |
+          mkdir win
+          cp -r scripts win/scripts
+          mv data.win win/data.win
+          ls -laR assets
+
+      - name: Prepare Windows PS files
+        shell: bash
+        run: |
+          mkdir win-ps
+          cp -r scripts win/scripts
+          cp ps/data.win win/data.win
+          ls -laR assets
+      
+      - name: Compress Windows Manual Version
+        uses: edgarrc/action-7z@v1
+        with:
+          args: 7z a -t7z -mx=9 win.7z ./win/
+
+      - name: Compress Windows Manual Version PS
+        uses: edgarrc/action-7z@v1
+        with:
+          args: 7z a -t7z -mx=9 win-ps.7z ./win-ps/
+
+      - name: Move Windows manual versions to Outputs
+        shell: bash
+        run: |
+          mkdir Output
+          mv win.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z
+          mv win-ps.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z
 
       - name: Prepare Linux std files
         shell: bash
@@ -75,8 +108,43 @@ jobs:
             ./assets/
             ./Lisez-Moi-PatchFR_Linux.txt
           outPath: Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Linux_PS-Edition.tar.gz
+      
+      - name: Prepare Vita std files
+        shell: bash
+        run: |
+          mkdir -p Vita/rePatch/PCSB01166/games/
+          cp -r scripts Vita/rePatch/PCSB01166/games/scripts
+          cp Vita/rePatch/PCSB01166/games/scripts/eng Vita/rePatch/PCSB01166/games/scripts/en
+          cp vita/game.win Vita/rePatch/PCSB01166/games/game.win
+          ls -laR assets
 
-      - name:
+      - name: Prepare Vita PS files
+        shell: bash
+        run: |
+          mkdir -p Vita-PS/rePatch/PCSB01166/games/
+          cp -r scripts Vita-PS/rePatch/PCSB01166/games/scripts
+          cp Vita-PS/rePatch/PCSB01166/games/scripts/eng Vita-PS/rePatch/PCSB01166/games/scripts/en
+          cp vita/ps/game.win Vita/rePatch/PCSB01166/games/game.win
+          ls -laR assets
+      
+      - name: Compress Vita Version
+        uses: edgarrc/action-7z@v1
+        with:
+          args: 7z a -t7z -mx=9 Vita.7z ./Vita/
+
+      - name: Compress Vita Version PS
+        uses: edgarrc/action-7z@v1
+        with:
+          args: 7z a -t7z -mx=9 Vita-PS.7z ./Vita-PS/
+
+      - name: Move Windows manual versions to Outputs
+        shell: bash
+        run: |
+          mkdir Output
+          mv Vita.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita.7z 
+          mv Vita-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita_PS-Edition.7z 
+
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Output\*
