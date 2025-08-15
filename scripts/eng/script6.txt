@@ -157,7 +157,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Tenez, voilà ma collection d'alcools #si vous vous sentez de prendre autre #chose.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Les bouteilles qui sont là?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je peux pas me payer un frigo de luxe #ou quoique ce soit pour les stocker donc #j'ai pas d'autre choix que de les exposer.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Je pense que si une sommité en #matière d'alcool se pointait ici, elle me #foutrait un coup de couteau pour crimes #contre les boissons ou quelque chose dans #ce goût.[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Je pense que si une sommité en #matière d'alcool se pointait ici, elle me #surinerait pour crimes contre les boissons #ou quelque chose du genre.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Enfin bref, la plupart sont encore #buvables. [STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Je pourrais vous offrir un peu de #l'Absinthe que j'ai ramené au bar si vous #voulez.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Je suis pas très Oscar Wilde comme #fille, malheureusement. Je suis plutôt du #genre Teddy Roosevelt.[STOPLIP:]
