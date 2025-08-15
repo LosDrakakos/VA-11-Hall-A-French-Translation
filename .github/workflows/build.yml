@@ -135,7 +135,6 @@ jobs:
       - name: Move Windows manual versions to Outputs
         shell: bash
         run: |
-          mkdir Output
           mv Vita.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita.7z 
           mv Vita-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita_PS-Edition.7z 
 
