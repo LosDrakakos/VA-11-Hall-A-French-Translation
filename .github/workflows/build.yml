@@ -41,32 +41,32 @@ jobs:
       - name: Prepare Windows std files
         shell: bash
         run: |
-          mkdir win
-          cp -r scripts win/scripts
-          cp data.win win/data.win
-          ls -laR win
+          mkdir ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer
+          cp -r scripts ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer/scripts
+          cp data.win ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer/data.win
+          ls -laR ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer
 
       - name: Prepare Windows PS files
         shell: bash
         run: |
-          mkdir win-ps
-          cp -r scripts win-ps/scripts
-          cp ps/data.win win-ps/data.win
-          ls -laR win-ps
+          mkdir ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition
+          cp -r scripts ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition/scripts
+          cp ps/data.win ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition/data.win
+          ls -laR ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition
       
       - name: Compress Windows Manual Version
         shell: bash
-        run: 7z a -t7z -mx=9 win.7z ./win/
+        run: 7z a -t7z -mx=9 ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z ./${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer/
 
       - name: Compress Windows Manual Version PS
         shell: bash
-        run: 7z a -t7z -mx=9 win-ps.7z ./win-ps/
+        run: 7z a -t7z -mx=9 ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z ./${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition/
 
       - name: Move Windows manual versions to Outputs
         shell: bash
         run: |
-          mv win.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z
-          mv win-ps.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z
+          cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z Output/
+          cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Editions.7z Output/
 
       - name: Prepare Linux std files
         shell: bash
