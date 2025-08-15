@@ -66,7 +66,6 @@ jobs:
       - name: Move Windows manual versions to Outputs
         shell: bash
         run: |
-          mkdir Output
           mv win.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z
           mv win-ps.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z
 
@@ -133,7 +132,7 @@ jobs:
         shell: bash
         run: 7z a -t7z -mx=9 Vita-PS.7z ./Vita-PS/
 
-      - name: Move Windows manual versions to Outputs
+      - name: Move Vita manual versions to Outputs
         shell: bash
         run: |
           mv Vita.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita.7z 
