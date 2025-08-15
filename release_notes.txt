@@ -1,9 +1,10 @@
-# Patch FR v1.1.0 Prologue + Corrections diverses
-#### Correction de "doux" en "sans alcool", corrections des articles Augmented Eyes, corrections des articles Danger/u/, corrections des articles du blog de Kira Miki, et corrections mineures
+# Patch FR v1.1.1 Corrections diverses
+#### Correction d'un ensemble de probleme de mise en forme. Correction des fautes des jours 1 a 6. (merci Sayuro pour la relecture intensive)
 
 Le jeu en entier est enfin traduit, il ne reste que la correction des coquilles ayant pu fuir nos yeux vigilants.
 
 Disponible au téléchargement une version alternative (PS-Edition) adaptée aux personnes photosensible par SpiritOfRei
+Automatisation du build des versions Vita, ajout d'une version Windows installable manuellement.
 
 --------------------------------------------------------------------------
 
