@@ -55,14 +55,12 @@ jobs:
           ls -laR win-ps
       
       - name: Compress Windows Manual Version
-        uses: edgarrc/action-7z@v1
-        with:
-          args: 7z a -t7z -mx=9 win.7z ./win/
+        shell: bash
+        run: 7z a -t7z -mx=9 win.7z ./win/
 
       - name: Compress Windows Manual Version PS
-        uses: edgarrc/action-7z@v1
-        with:
-          args: 7z a -t7z -mx=9 win-ps.7z ./win-ps/
+        shell: bash
+        run: 7z a -t7z -mx=9 win-ps.7z ./win-ps/
 
       - name: Move Windows manual versions to Outputs
         shell: bash
@@ -127,14 +125,12 @@ jobs:
           ls -laR assets
       
       - name: Compress Vita Version
-        uses: edgarrc/action-7z@v1
-        with:
-          args: 7z a -t7z -mx=9 Vita.7z ./Vita/
+        shell: bash
+        run: 7z a -t7z -mx=9 Vita.7z ./Vita/
 
       - name: Compress Vita Version PS
-        uses: edgarrc/action-7z@v1
-        with:
-          args: 7z a -t7z -mx=9 Vita-PS.7z ./Vita-PS/
+        shell: bash
+        run: 7z a -t7z -mx=9 Vita-PS.7z ./Vita-PS/
 
       - name: Move Windows manual versions to Outputs
         shell: bash
