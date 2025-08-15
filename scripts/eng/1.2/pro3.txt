@@ -206,7 +206,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Non, à vrai dire j'ai déjà entendu cette #histoire également.[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Vraiment?[STOPLIP:]
 [XS:dealtalk,1][C:25]Deal:[C:C] Et pourtant, j'arrive pas à comprendre #pourquoi tu en as tellement marre d'eux.[STOPLIP:]
-[XS:bettyface,sigh][XS:bettytalk,1][C:24]Betty:[C:C] Ché pas. Peut-être parce que je n'ai #affaire à eux que dans leur pires moments?[STOPLIP:]
+[XS:bettyface,sigh][XS:bettytalk,1][C:24]Betty:[C:C] Chais pas. Peut-être parce que je n'ai #affaire à eux que dans leur pires moments?[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Tu les as toujours vus dans leurs moments #"heureux".[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] Moi j'analyse leurs échantillons #d'excréments et je débouche leur sphincter quand #ils mangent le fil dentaire de leurs proprios.[STOPLIP:]
 [XS:bettytalk,1][C:24]Betty:[C:C] J'ai beau être leur vétérinaire, ils me #traitent plus une mère, et pas dans le bon sens.[STOPLIP:]

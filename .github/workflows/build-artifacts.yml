@@ -38,13 +38,43 @@ jobs:
         with:
           path: setup_ps-edition.iss
           options: /O+
+      
+      - name: Prepare Windows std files
+        shell: bash
+        run: |
+          mkdir ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer
+          cp -r scripts ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer/scripts
+          cp data.win ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer/data.win
+          ls -laR ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer
+
+      - name: Prepare Windows PS files
+        shell: bash
+        run: |
+          mkdir ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition
+          cp -r scripts ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition/scripts
+          cp ps/data.win ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition/data.win
+          ls -laR ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition
+      
+      - name: Compress Windows Manual Version
+        shell: bash
+        run: 7z a -t7z -mx=9 ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z ./${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer/
+
+      - name: Compress Windows Manual Version PS
+        shell: bash
+        run: 7z a -t7z -mx=9 ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z ./${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition/
+
+      - name: Move Windows manual versions to Outputs
+        shell: bash
+        run: |
+          cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer.7z Output/
+          cp ${{ env.APPNAME }}_${{ env.APPVERSION }}_Windows-Manual-Installer_PS-Edition.7z Output/
 
       - name: Prepare Linux std files
         shell: bash
         run: |
           mkdir assets
-          mv scripts assets/scripts
-          mv data.win assets/game.unx
+          cp -r scripts assets/scripts
+          cp data.win assets/game.unx
           ls -laR assets
 
       - name: Compress Linux std files
@@ -62,7 +92,7 @@ jobs:
         shell: bash
         run: |
           rm assets/game.unx
-          mv ps/data.win assets/game.unx
+          cp ps/data.win assets/game.unx
           ls -laR assets
 
       - name: Compress Linux ps files
@@ -75,8 +105,40 @@ jobs:
             ./assets/
             ./Lisez-Moi-PatchFR_Linux.txt
           outPath: Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Linux_PS-Edition.tar.gz
+      
+      - name: Prepare Vita std files
+        shell: bash
+        run: |
+          mkdir -p Vita/rePatch/PCSB01166/games/
+          cp -r scripts Vita/rePatch/PCSB01166/games/scripts
+          mv Vita/rePatch/PCSB01166/games/scripts/eng Vita/rePatch/PCSB01166/games/scripts/en
+          cp vita/game.win Vita/rePatch/PCSB01166/games/game.win
+          ls -laR assets
 
-      - name:
+      - name: Prepare Vita PS files
+        shell: bash
+        run: |
+          mkdir -p Vita-PS/rePatch/PCSB01166/games/
+          cp -r scripts Vita-PS/rePatch/PCSB01166/games/scripts
+          mv Vita-PS/rePatch/PCSB01166/games/scripts/eng Vita-PS/rePatch/PCSB01166/games/scripts/en
+          cp vita/ps/game.win Vita/rePatch/PCSB01166/games/game.win
+          ls -laR assets
+      
+      - name: Compress Vita Version
+        shell: bash
+        run: 7z a -t7z -mx=9 Vita.7z ./Vita/
+
+      - name: Compress Vita Version PS
+        shell: bash
+        run: 7z a -t7z -mx=9 Vita-PS.7z ./Vita-PS/
+
+      - name: Move Vita manual versions to Outputs
+        shell: bash
+        run: |
+          mv Vita.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita.7z 
+          mv Vita-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita_PS-Edition.7z 
+
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           path: D:\a\VA-11-Hall-A-French-Translation\VA-11-Hall-A-French-Translation\Output\*
