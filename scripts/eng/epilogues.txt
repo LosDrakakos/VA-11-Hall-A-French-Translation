@@ -75,7 +75,7 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] (La ferme.)[STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Alors... [STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] La dernière fois que j'ai parlé à ma maman, je lui ai demandé de me parler de sa fille. Apparemment, elle s'appellait Anna.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] Huh...[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] Oh...[STOPLIP:]
 [XS:antalk,1][C:41]Anna:[C:C] Et tu prétends que c'est une surprise?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] (Silence.) [STOPLIP:]
 [XS:dorotalk,1][C:18]Dorothy:[C:C] Elle s'est battue contre un rejet de nanomachines toute sa vie.[STOPLIP:]
