@@ -677,8 +677,7 @@
 [XS:seitalk,1][C:17]Sei:[C:C] Oui! C'est ça.[XS:seitalk,0][XS:ph,1][XS:client,4][E:62][STOPLIP:]
 [XS:steltalk,1][C:16]Stella:[C:C] Tu devais vraiment être plus prudente avec #tes affaires.[XS:steltalk,0][STOPLIP:]
 [XS:seiface,][XS:seitalk,1][C:17]Sei:[C:C] Oui, mais j'ai des casques de rechange![XS:seitalk,0][STOPLIP:]
-[XS:stelface,][XS:steltalk,1][C:16]Stella:[C:C] Ces casques de rechange sont là si jamais #tu en casses un ou s'il y a
-pas pour quand tu les perds[XS:steltalk,0][STOPLIP:]
+[XS:stelface,][XS:steltalk,1][C:16]Stella:[C:C] Ces casques de rechange sont là si jamais #tu en casses un ou s'il y a un dysfonctionnement, #pas pour quand tu les perds[XS:steltalk,0][STOPLIP:]
 [XS:steltalk,1][C:16]Stella:[C:C] Ces casques coûtent cher, tu sais?[XS:steltalk,0][STOPLIP:]
 [XS:seitalk,1][C:17]Sei:[C:C] Ouais. Désolée...[XS:seitalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] (Je dois leur dire que ma Patronne a eu sa #tête coincée dedans à cause d'un bouton bloqué?)[STOPLIP:]
