@@ -1,0 +1,17 @@
+﻿[E:1]
+...
+[SOUND:iceadd]iceadd
+[SOUND:glassserve]glassserve
+[SOUND:addingredient]addingredient
+[SOUND:ageadd]ageadd
+[SOUND:answering_machine]answering_machine
+[SOUND:cancel_sound]cancel_sound
+[SOUND:door]door
+[SOUND:door2]door2
+[SOUND:pageturn]pageturn
+[SOUND:pageturn]pageturn
+[SOUND:pageturn]pageturn
+[SOUND:pageturn]pageturn
+[SOUND:pageturn]pageturn
+[SOUND:pageturn]pageturn
+[SOUND:pageturn]pageturn
