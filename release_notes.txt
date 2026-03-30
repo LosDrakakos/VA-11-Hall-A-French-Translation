@@ -1,4 +1,4 @@
-# Patch FR v1.1.1 Corrections diverses
+# Patch FR v1.1.3 Corrections diverses
 #### Correction d'un ensemble de probleme de mise en forme. Correction des fautes des jours 1 a 6. (merci Sayuro pour la relecture intensive)
 
 Le jeu en entier est enfin traduit, il ne reste que la correction des coquilles ayant pu fuir nos yeux vigilants.
@@ -37,10 +37,10 @@ L'équipe de traduction "Officielle" comptait les membres suivants: Benjamin "Go
    - Le blog de Kira *Miki* (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis et Shushurocket)
    - La trad du prologue (Traduits par l'équipe de Gordon Frenchman, relecture + harmonisation + intégration The Drakakis, Shikanata, Kamy et Shushurocket)
    - Relecture générale par Kamy, Shikanata, Shushurocket, et The Drakakis
+   - Portage Nintendo Switch
+   - Portage PS Vita
 
 ### Ce qui reste à faire
 
    - La correction des erreurs nous ayant échappées
-   - La version Switch : on a fait une version dépackagée de notre jeu pour pouvoir faire un mod via le layerfs Atmosphere (compatible switch moddées et émulateurs), c'est juste que la structure du texte et du data.win est un peu différente. On sait comment faire techniquement, cela dit on a un peu la flemme d'intégrer la traduction dedans parce que c'est fastidieux, mais un jour, promis)
-   - La version Vita (on a pas regardé la partie technique pas dit que ca arrive un jour, mais on a une console moddée sous la main, c'est un bon début)
 
