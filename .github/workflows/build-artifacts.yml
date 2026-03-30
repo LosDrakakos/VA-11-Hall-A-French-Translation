@@ -113,7 +113,7 @@ jobs:
           cp -r scripts Vita/rePatch/PCSB01166/games/scripts
           mv Vita/rePatch/PCSB01166/games/scripts/eng Vita/rePatch/PCSB01166/games/scripts/en
           cp vita/game.win Vita/rePatch/PCSB01166/games/game.win
-          ls -laR assets
+          ls -laR Vita/rePatch/PCSB01166/games/
 
       - name: Prepare Vita PS files
         shell: bash
@@ -122,7 +122,7 @@ jobs:
           cp -r scripts Vita-PS/rePatch/PCSB01166/games/scripts
           mv Vita-PS/rePatch/PCSB01166/games/scripts/eng Vita-PS/rePatch/PCSB01166/games/scripts/en
           cp vita/ps/game.win Vita/rePatch/PCSB01166/games/game.win
-          ls -laR assets
+          ls -laR Vita-PS/rePatch/PCSB01166/games/
       
       - name: Compress Vita Version
         shell: bash
@@ -137,6 +137,37 @@ jobs:
         run: |
           mv Vita.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita.7z 
           mv Vita-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Vita_PS-Edition.7z 
+
+      - name: Prepare Switch std files
+        shell: bash
+        run: |
+          mkdir -p atmosphere/contents/010086500D3C8000/romfs
+          cp -r scripts atmosphere/contents/010086500D3C8000/romfs/scripts
+          cp switch/game.win atmosphere/contents/010086500D3C8000/romfs/game.win
+          ls -laR atmosphere/contents/010086500D3C8000/romfs
+      
+      - name: Compress Switch Version
+        shell: bash
+        run: 7z a -t7z -mx=9 Switch.7z ./atmosphere/
+
+      - name: Prepare Switch PS files
+        shell: bash
+        run: |
+          mkdir -p atmosphere/contents/010086500D3C8000/romfs
+          cp -r scripts atmosphere/contents/010086500D3C8000/romfs/scripts
+          rm atmosphere/contents/010086500D3C8000/romfs/game.win
+          cp switch/game-ps.win atmosphere/contents/010086500D3C8000/romfs/game.win
+          ls -laR atmosphere/contents/010086500D3C8000/romfs
+      
+      - name: Compress Switch Version PS
+        shell: bash
+        run: 7z a -t7z -mx=9 Switch-PS.7z ./atmosphere/
+      
+      - name: Move Switch manual versions to Outputs
+        shell: bash
+        run: |
+          mv Switch.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}Switch.7z 
+          mv Switch-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Switch_PS-Edition.7z 
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4

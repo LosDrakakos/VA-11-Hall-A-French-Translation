@@ -50,7 +50,7 @@
 [XS:gilface,fucked][XS:giltalk,1][C:19]Gillian:[C:C] T'as... passé trop de temps au mixage. #Ça s'est trop mélangé et c'est devenu un #Sparkle Star à la place.[XS:giltalk,0][STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] ...[STOPLIP:]
 [XS:gilface,][XS:giltalk,1][C:19]Gillian:[C:C] On-On va essayer autre chose.[XS:giltalk,0][XS:mix,0][XS:ph,3][E:4][STOPLIP:]
-[RES:][XS:jilltalk,1][C:13]Jill:[C:C] Voila. Content?[STOPLIP:]
+[RES:][XS:jilltalk,1][C:13]Jill:[C:C] Voilà. Content?[STOPLIP:]
 [XS:gilface,surprise][XS:giltalk,1][C:19]Gillian:[C:C] Oui. Très. J'avoue m'être trompé.[XS:giltalk,0][STOPLIP:]
 [XS:gilface,][XS:giltalk,1][C:19]Gillian:[C:C] Maintenant, au boulot.[XS:giltalk,0][XS:mix,0][XS:ph,5][E:5][STOPLIP:]
 [RES:][XS:jilltalk,1][C:13]Jill:[C:C] Voilà.[STOPLIP:]
