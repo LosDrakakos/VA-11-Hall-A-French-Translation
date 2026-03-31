@@ -166,7 +166,7 @@ jobs:
       - name: Move Switch manual versions to Outputs
         shell: bash
         run: |
-          mv Switch.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}Switch.7z 
+          mv Switch.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Switch.7z 
           mv Switch-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Switch_PS-Edition.7z 
 
       - name: Upload artifacts

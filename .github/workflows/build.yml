@@ -140,31 +140,32 @@ jobs:
       - name: Prepare Switch std files
         shell: bash
         run: |
-          mkdir -p Switch/atmosphere/contents/010086500D3C8000/romfs
-          cp -r scripts Switch/atmosphere/contents/010086500D3C8000/romfs/scripts
-          cp switch/game.win Switch/atmosphere/contents/010086500D3C8000/romfs/game.win
-          ls -laR Switch/atmosphere/contents/010086500D3C8000/romfs
+          mkdir -p atmosphere/contents/010086500D3C8000/romfs
+          cp -r scripts atmosphere/contents/010086500D3C8000/romfs/scripts
+          cp switch/game.win atmosphere/contents/010086500D3C8000/romfs/game.win
+          ls -laR atmosphere/contents/010086500D3C8000/romfs
+      
+      - name: Compress Switch Version
+        shell: bash
+        run: 7z a -t7z -mx=9 Switch.7z ./atmosphere/
 
       - name: Prepare Switch PS files
         shell: bash
         run: |
-          mkdir -p Switch-PS/atmosphere/contents/010086500D3C8000/romfs
-          cp -r scripts Switch-PS/atmosphere/contents/010086500D3C8000/romfs/scripts
-          cp switch/game-ps.win Switch-PS/atmosphere/contents/010086500D3C8000/romfs/game.win
-          ls -laR Switch-PS/atmosphere/contents/010086500D3C8000/romfs
+          mkdir -p atmosphere/contents/010086500D3C8000/romfs
+          cp -r scripts atmosphere/contents/010086500D3C8000/romfs/scripts
+          rm atmosphere/contents/010086500D3C8000/romfs/game.win
+          cp switch/game-ps.win atmosphere/contents/010086500D3C8000/romfs/game.win
+          ls -laR atmosphere/contents/010086500D3C8000/romfs
       
-      - name: Compress Switch Version
-        shell: bash
-        run: 7z a -t7z -mx=9 Switch.7z ./Switch/
-
       - name: Compress Switch Version PS
         shell: bash
-        run: 7z a -t7z -mx=9 Switch-PS.7z ./Switch-PS/
+        run: 7z a -t7z -mx=9 Switch-PS.7z ./atmosphere/
       
       - name: Move Switch manual versions to Outputs
         shell: bash
         run: |
-          mv Switch.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}Switch.7z 
+          mv Switch.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Switch.7z 
           mv Switch-PS.7z Output/${{ env.APPNAME }}_${{ env.APPVERSION }}_Switch_PS-Edition.7z 
 
       - name: Upload Artifacts
